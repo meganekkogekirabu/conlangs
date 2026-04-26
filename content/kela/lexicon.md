@@ -2,4 +2,4 @@
 title: "Kela lexicon"
 ---
 
-{{< lexicon src="kela" >}}
+{{< kela-lexicon >}}
