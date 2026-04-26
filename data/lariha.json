@@ -1,0 +1,3440 @@
+[
+  {
+    "form": "char-",
+    "IPA": "[kˀar]",
+    "gloss": "human, thought",
+    "derivatives": "charu, charnu, charenu, charentsa, ngucharenartsa",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "káte-",
+    "IPA": "['ʔate]",
+    "gloss": "strength",
+    "derivatives": "kátew, kátenu",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "kátew",
+    "IPA": "['ʔateu̯]",
+    "gloss": "strength",
+    "derivatives": "",
+    "notes": "vocalic plain stem",
+    "etymology": "káte- + -u",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "kátenu",
+    "IPA": "['ʔatenu]",
+    "gloss": "kind of cattle",
+    "derivatives": "",
+    "notes": "vocalic n-stem",
+    "etymology": "káte- + -nu",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "charu",
+    "IPA": "[kˀar'u]",
+    "gloss": "man",
+    "derivatives": "",
+    "notes": "consonantal plain stem",
+    "etymology": "char- + -u",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "charnu",
+    "IPA": "[kˀar'nu]",
+    "gloss": "human",
+    "derivatives": "",
+    "notes": "consonantal n-stem",
+    "etymology": "char- + -nu",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "charenu",
+    "IPA": "[kˀare'nu]",
+    "gloss": "woman",
+    "derivatives": "kechárensᵚeha",
+    "notes": "vocalic n-stem",
+    "etymology": "extension of charnu",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "kechárensᵚeha",
+    "IPA": "[ʔe'kˀarensˠeha]",
+    "gloss": "to give birth, to bear child",
+    "derivatives": "",
+    "notes": "narrative personal attributive realis",
+    "etymology": "ke- + charenu + -sᵚeha",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "(á)-sᵚeha",
+    "IPA": "[sˠeha]",
+    "gloss": "forms personal attributive verbs",
+    "derivatives": "see etymology sections",
+    "notes": "personal attributive realis",
+    "etymology": "(á)-ts- + -n- + -tsa",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "(á)-sᵚiha",
+    "IPA": "[sˠiha]",
+    "gloss": "forms impersonal attributive verbs",
+    "derivatives": "see etymology sections",
+    "notes": "impersonal attributive realis",
+    "etymology": "(á)-ts- + -y- + -tsa",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "charentsa",
+    "IPA": "[kˀaren'tsa]",
+    "gloss": "to think",
+    "derivatives": "",
+    "notes": "denominal n-stem general realis",
+    "etymology": "charenu + -tsa",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "ngucharenatsa",
+    "IPA": "[ŋukˀarena'tsa]",
+    "gloss": "to believe unwaveringly",
+    "derivatives": "",
+    "notes": "post-state denominal n-stem perfective-A realis",
+    "etymology": "nu- + charenu + -an- + -tsa",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "pVy-",
+    "IPA": "[pVi̯]",
+    "gloss": "sweetness",
+    "derivatives": "póyu, poynu, pinyátsa",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "pinyátsa",
+    "IPA": "[pi'ɲatsa]",
+    "gloss": "to rot",
+    "derivatives": "",
+    "notes": "perfective-B realis",
+    "etymology": "pVy- + (0)-nyá- + -tsa",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "póyu",
+    "IPA": "['poju]",
+    "gloss": "sweetness",
+    "derivatives": "",
+    "notes": "consonantal plain stem",
+    "etymology": "pVy- + (ó)-u",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "poynu",
+    "IPA": "[poi̯'nu]",
+    "gloss": "fruit",
+    "derivatives": "",
+    "notes": "consonantal n-stem",
+    "etymology": "pVy- + (o)-nu",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "(o)-nu",
+    "IPA": "['nu]",
+    "gloss": "forms nouns from roots with a sense of \"possessing the quality of X\"",
+    "derivatives": "see etymology sections",
+    "notes": "n-stem formant",
+    "etymology": "-n- + (o)-u",
+    "partOfSpeech": "ending"
+  },
+  {
+    "form": "(á)-u",
+    "IPA": "[u]",
+    "gloss": "generally forms nouns from roots pertaining to natural processes and non-human animate nouns",
+    "derivatives": "see etymology sections",
+    "notes": "á-type plain stem formant",
+    "etymology": "",
+    "partOfSpeech": "ending"
+  },
+  {
+    "form": "(o)-u",
+    "IPA": "['u]",
+    "gloss": "generally forms nouns from roots pertaining to humans and man-made things",
+    "derivatives": "see etymology sections",
+    "notes": "o-type plain stem formant",
+    "etymology": "",
+    "partOfSpeech": "ending"
+  },
+  {
+    "form": "(0)-ú",
+    "IPA": "['u]",
+    "gloss": "(rare) forms roots from nouns pertaining to bounded abstract concepts",
+    "derivatives": "see etymology sections",
+    "notes": "0-type abstractive plain stem formant",
+    "etymology": "",
+    "partOfSpeech": "ending"
+  },
+  {
+    "form": "(é/ó/ú)-u",
+    "IPA": "[u]",
+    "gloss": "forms roots from nouns pertaining to unbounded abstract concepts",
+    "derivatives": "see etymology sections",
+    "notes": "u-type abstractive plain stem formant",
+    "etymology": "",
+    "partOfSpeech": "ending"
+  },
+  {
+    "form": "maye-",
+    "IPA": "[maje]",
+    "gloss": "peg, club",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "kana-",
+    "IPA": "[ʔana]",
+    "gloss": "good",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "mete-",
+    "IPA": "[mete-]",
+    "gloss": "breaking",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cacha-",
+    "IPA": "[kakˀa]",
+    "gloss": "attacking",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cangho-",
+    "IPA": "[kaŋˀo]",
+    "gloss": "running",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "mata-",
+    "IPA": "[mata]",
+    "gloss": "running",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "mataw",
+    "IPA": "[ma'tau̯]",
+    "gloss": "eye",
+    "derivatives": "",
+    "notes": "vocalic plain stem",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "caw-",
+    "IPA": "[kau̯]",
+    "gloss": "cleaning",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cemha-",
+    "IPA": "[kemˀa]",
+    "gloss": "shining, brightness",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cefhi-",
+    "IPA": "[kefˀi]",
+    "gloss": "splitting, dividing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "nama-",
+    "IPA": "[nama]",
+    "gloss": "calling",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "chacaw-",
+    "IPA": "[kˀakau̯]",
+    "gloss": "cooking, roasting",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "changow-",
+    "IPA": "[kˀaŋou̯]",
+    "gloss": "roaring",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "pere-",
+    "IPA": "[pere]",
+    "gloss": "shining, brightness",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cey-",
+    "IPA": "[kei̯]",
+    "gloss": "swelling",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "yut(ᵚ)o-",
+    "IPA": "[jut(ˠ)o]",
+    "gloss": "kind of hallucinogenic plant (henbane?), day-dream",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "chuni-",
+    "IPA": "[kˀuni]",
+    "gloss": "believing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "ma",
+    "IPA": "[ma]",
+    "gloss": "negative particle",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "particle"
+  },
+  {
+    "form": "ma-",
+    "IPA": "[ma]",
+    "gloss": "forms verbs with a sense of \"to do the inverse of X\"",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "ending"
+  },
+  {
+    "form": "chur-",
+    "IPA": "[kˀur]",
+    "gloss": "swelling",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "chusu-",
+    "IPA": "[kˀusu]",
+    "gloss": "tying",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cifa-",
+    "IPA": "[kifa]",
+    "gloss": "thickness",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "-(k)anu",
+    "IPA": "[(ʔ)anu]",
+    "gloss": "forms quasiadjectives from roots",
+    "derivatives": "",
+    "notes": "n-stem adjectival formant",
+    "etymology": "",
+    "partOfSpeech": "ending"
+  },
+  {
+    "form": "cam-",
+    "IPA": "[kam]",
+    "gloss": "doing, making",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "camitsa",
+    "IPA": "[kamitsa]",
+    "gloss": "to do, make",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "chim-",
+    "IPA": "[kˀim]",
+    "gloss": "bearing, carrying",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "chimetsa",
+    "IPA": "[kˀimetsa]",
+    "gloss": "to bear, carry",
+    "derivatives": "",
+    "notes": "aliophoric general realis",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "kechimutsa",
+    "IPA": "[ʔekˀimutsa]",
+    "gloss": "to bear child",
+    "derivatives": "",
+    "notes": "narrative locuphoric general realis",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "chuti-",
+    "IPA": "[kˀuti]",
+    "gloss": "bearing child",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "hay-",
+    "IPA": "[hai̯]",
+    "gloss": "binding",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "ran-",
+    "IPA": "[ran]",
+    "gloss": "constricting",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "ketar-",
+    "IPA": "[ʔetar]",
+    "gloss": "wood",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "mhan-",
+    "IPA": "[mˀan]",
+    "gloss": "dawn",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "chuto-",
+    "IPA": "[kˀuto]",
+    "gloss": "mountain",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "chuse-",
+    "IPA": "[kˀuse]",
+    "gloss": "protection",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "chuy-",
+    "IPA": "[kˀui̯]",
+    "gloss": "hill",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cicha-",
+    "IPA": "[kikˀa]",
+    "gloss": "striking, breaking",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cimhe-",
+    "IPA": "[kimˀe]",
+    "gloss": "top, point",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cifhe-",
+    "IPA": "[kifˀe]",
+    "gloss": "awareness, intelligence",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "ceph-",
+    "IPA": "[kepˀ]",
+    "gloss": "seizing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "chep-",
+    "IPA": "[kˀep]",
+    "gloss": "alternative form of *ceph-",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "chutso-",
+    "IPA": "[kˀutso]",
+    "gloss": "bending",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cofha-",
+    "IPA": "[kofˀa]",
+    "gloss": "compelling",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "ciw-",
+    "IPA": "[kiu̯]",
+    "gloss": "fearing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cocha-",
+    "IPA": "[kokˀa]",
+    "gloss": "harmony",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "com-",
+    "IPA": "[kom]",
+    "gloss": "crying",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "con-",
+    "IPA": "[kon]",
+    "gloss": "howling",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "han-",
+    "IPA": "[han]",
+    "gloss": "flower, blossoming",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "congha-",
+    "IPA": "[koŋˀa]",
+    "gloss": "messiness, stain",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "copha-",
+    "IPA": "[kopˀa]",
+    "gloss": "overflowing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cor-",
+    "IPA": "[kor]",
+    "gloss": "wading, swimming",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cuche-",
+    "IPA": "[kukˀe]",
+    "gloss": "breaking",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cufha-",
+    "IPA": "[kufˀa]",
+    "gloss": "stinkiness, odour",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cun-",
+    "IPA": "[kun]",
+    "gloss": "standing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "copi-",
+    "IPA": "[kopi]",
+    "gloss": "carp",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "yáng-",
+    "IPA": "['jaŋ]",
+    "gloss": "farming, farm",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "kiwnu-",
+    "IPA": "[kiu̯nu]",
+    "gloss": "crowd",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "(á)-ocu",
+    "IPA": "[oku]",
+    "gloss": "forms agent nouns from verbs or roots",
+    "derivatives": "",
+    "notes": "truncating consonantal plain stem formant",
+    "etymology": "",
+    "partOfSpeech": "ending"
+  },
+  {
+    "form": "motu-",
+    "IPA": "[motu]",
+    "gloss": "island",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "mhay-",
+    "IPA": "[mˀai̯]",
+    "gloss": "ripening",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "maka-",
+    "IPA": "[maʔa]",
+    "gloss": "harmonious",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "mhasa-",
+    "IPA": "[mˀasa]",
+    "gloss": "delicious",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cew-",
+    "IPA": "[keu̯]",
+    "gloss": "shouting",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "tay-",
+    "IPA": "[tai̯]",
+    "gloss": "boiling, brewing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "tᵚéng-",
+    "IPA": "['tˠeŋ]",
+    "gloss": "beating, striking, breaking",
+    "derivatives": "",
+    "notes": "notable for being universally hysterostatic",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "-etsa",
+    "IPA": "[etsa]",
+    "gloss": "forms thematic verbs",
+    "derivatives": "",
+    "notes": "aliophoric general realis",
+    "etymology": "",
+    "partOfSpeech": "ending"
+  },
+  {
+    "form": "tᵚéngetsa",
+    "IPA": "['tˠeŋetsa]",
+    "gloss": "to beat, strike, break",
+    "derivatives": "",
+    "notes": "aliophoric general realis",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "teng-",
+    "IPA": "[teŋ]",
+    "gloss": "straight",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "nam-",
+    "IPA": "[nam]",
+    "gloss": "cutting",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "nametsa",
+    "IPA": "[nametsa]",
+    "gloss": "to cut",
+    "derivatives": "",
+    "notes": "aliophoric general realis",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "seke-",
+    "IPA": "[seʔe]",
+    "gloss": "cutting",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "seketsa",
+    "IPA": "[seʔe'tsa]",
+    "gloss": "to cut",
+    "derivatives": "",
+    "notes": "general realis",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "fam-",
+    "IPA": "[fam]",
+    "gloss": "sharing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "far-",
+    "IPA": "[far]",
+    "gloss": "sacrificing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "katu",
+    "IPA": "[ʔa'tu]",
+    "gloss": "other",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "determiner"
+  },
+  {
+    "form": "saphi-",
+    "IPA": "[sapˀi]",
+    "gloss": "cat",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "sáphocu",
+    "IPA": "['sapˀoku]",
+    "gloss": "kitten",
+    "derivatives": "",
+    "notes": "truncated consonantal plain stem",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "kulace-",
+    "IPA": "[ʔulake]",
+    "gloss": "city, urban",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "kan-",
+    "IPA": "[ʔan]",
+    "gloss": "river",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "nyaw-",
+    "IPA": "[ɲaw]",
+    "gloss": "ritual",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cyanᵚe",
+    "IPA": "[ca'nˠe]",
+    "gloss": "somewhere",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "determiner"
+  },
+  {
+    "form": "cyapa-",
+    "IPA": "[capa]",
+    "gloss": "loving",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cyapanu",
+    "IPA": "[capa'nu]",
+    "gloss": "in love",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "quasiadjective"
+  },
+  {
+    "form": "cyase-",
+    "IPA": "[case]",
+    "gloss": "widow, mourner",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "-kanu",
+    "IPA": "[ʔa'nu]",
+    "gloss": "forms nouns from roots with a sense of \"being like X\"",
+    "derivatives": "",
+    "notes": "n-stem substantive formant",
+    "etymology": "",
+    "partOfSpeech": "ending"
+  },
+  {
+    "form": "cyasekanu",
+    "IPA": "[caseʔa'nu]",
+    "gloss": "kind of corvid",
+    "derivatives": "",
+    "notes": "n-stem substantive",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "cyasᵚa-",
+    "IPA": "[casˠa]",
+    "gloss": "army",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cyene-",
+    "IPA": "[cene]",
+    "gloss": "soldier",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cyenekanu",
+    "IPA": "[ceneʔa'nu]",
+    "gloss": "ox, ram",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "cyesu-",
+    "IPA": "[cesu]",
+    "gloss": "giant",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cyesukanu",
+    "IPA": "[cesuʔa'nu]",
+    "gloss": "cow",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "pare-",
+    "IPA": "[pare]",
+    "gloss": "covering",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "parenu",
+    "IPA": "[pare'nu]",
+    "gloss": "sheep",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "párew",
+    "IPA": "['pareu̯]",
+    "gloss": "wool",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "cya(y)ti-?",
+    "IPA": "[ca(i)ti]",
+    "gloss": "horse",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cyitiwú",
+    "IPA": "[citi'wu]",
+    "gloss": "army",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "cyátu",
+    "IPA": "['catu]",
+    "gloss": "horse",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "cyátocu",
+    "IPA": "['catoku]",
+    "gloss": "goat, ram",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "heng-",
+    "IPA": "[heŋ]",
+    "gloss": "sight, seeing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "hengetsa",
+    "IPA": "[heŋe'tsa]",
+    "gloss": "to see",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "kehenganitsa",
+    "IPA": "[ʔeheŋani'tsa]",
+    "gloss": "to have seen",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "kanitsa",
+    "IPA": "[ʔani'tsa]",
+    "gloss": "imperfect past stem of *hengetsa",
+    "derivatives": "",
+    "notes": "probably a shortening of *kehenganitsa",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "na",
+    "IPA": "[na]",
+    "gloss": "relative pronoun",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "form": "mána",
+    "IPA": "['mana]",
+    "gloss": "none",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "form": "-niang",
+    "IPA": "[ni'aŋ]",
+    "gloss": "forms possessive or attributive verbs from nouns",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "ending"
+  },
+  {
+    "form": "cyapatsa",
+    "IPA": "[capa'tsa]",
+    "gloss": "to love",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "renáwa",
+    "IPA": "[re'nawa]",
+    "gloss": "for the benefit of",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "form": "itsu",
+    "IPA": "[i'tsu]",
+    "gloss": "bird",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "cenu",
+    "IPA": "[ke'nu]",
+    "gloss": "bamboo sheet",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "itsocenu",
+    "IPA": "[iˌtsoke'nu]",
+    "gloss": "kite",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "wa",
+    "IPA": "[wa]",
+    "gloss": "topic marker",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "particle"
+  },
+  {
+    "form": "(u)-wá",
+    "IPA": "['wa]",
+    "gloss": "relative topic marker",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "particle"
+  },
+  {
+    "form": "tamu",
+    "IPA": "[ta'mu]",
+    "gloss": "tribe",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "kóra",
+    "IPA": "['ʔora]",
+    "gloss": "too, as well",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "form": "o",
+    "IPA": "[o]",
+    "gloss": "introduces vocative phrase",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "particle"
+  },
+  {
+    "form": "sapa",
+    "IPA": "[sa'pa]",
+    "gloss": "discourse particle: indeed, in fact",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "particle"
+  },
+  {
+    "form": "anta-",
+    "IPA": "[anta]",
+    "gloss": "bread",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "antacu",
+    "IPA": "[anta'ku]",
+    "gloss": "small yeast pastry",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "antacitsa",
+    "IPA": "[antaki'tsa]",
+    "gloss": "to eat a small yeast pastry",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "champa-",
+    "IPA": "[kˀampa]",
+    "gloss": "correct, in order",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "chupawú",
+    "IPA": "[kˀupa'wu]",
+    "gloss": "correct, in order",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "quasiadjective"
+  },
+  {
+    "form": "champanu",
+    "IPA": "[kˀampa'nu]",
+    "gloss": "order",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "chámpasᵚeha",
+    "IPA": "['kˀampasˠeha]",
+    "gloss": "to be orderly",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "hata-",
+    "IPA": "[hata]",
+    "gloss": "deception",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "hátaw",
+    "IPA": "['hatau̯]",
+    "gloss": "falsehood",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "hatatsa",
+    "IPA": "[hata'tsa]",
+    "gloss": "to lie, to deceive",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "ceme-",
+    "IPA": "[keme]",
+    "gloss": "wrath",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "cemew",
+    "IPA": "[ke'mew]",
+    "gloss": "wrath",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "cámesᵚeha",
+    "IPA": "['kamesˠeha]",
+    "gloss": "to hate",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "haka",
+    "IPA": "[ha'ʔa]",
+    "gloss": "greater quantity",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "quasiadjective"
+  },
+  {
+    "form": "koy",
+    "IPA": "['ʔoi̯]",
+    "gloss": "lesser quantity",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "quasiadjective"
+  },
+  {
+    "form": "kamu",
+    "IPA": "[ʔa'mu]",
+    "gloss": "hand",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "hápaw",
+    "IPA": "['hapau̯]",
+    "gloss": "leg",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "kácaw",
+    "IPA": "['ʔakau̯]",
+    "gloss": "very large quantity",
+    "derivatives": "",
+    "notes": "maybe from earlier **káCapu",
+    "etymology": "",
+    "partOfSpeech": "quasiadjective"
+  },
+  {
+    "form": "fhan-",
+    "IPA": "[fˀan]",
+    "gloss": "speaking",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "chásᵚowu",
+    "IPA": "['kˀasˠowu]",
+    "gloss": "rock, stone",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "chosew",
+    "IPA": "[kˀoseu̯]",
+    "gloss": "arrowhead",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "noun"
+  },
+  {
+    "form": "fhanitsa",
+    "IPA": "[fˀanitsa]",
+    "gloss": "to tell",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "oy-",
+    "IPA": "[oi̯]",
+    "gloss": "desire",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "oytsa",
+    "IPA": "[oi̯'tsa]",
+    "gloss": "to want",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "moytsa",
+    "IPA": "[moi̯'tsa]",
+    "gloss": "to not want",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "verb"
+  },
+  {
+    "form": "chose-",
+    "IPA": "[kˀose]",
+    "gloss": "rock, stone",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": "root"
+  },
+  {
+    "form": "hVchu-",
+    "IPA": "[hVkˀu]",
+    "gloss": "rice",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "áwau",
+    "IPA": "['awau̯]",
+    "gloss": "water",
+    "derivatives": "",
+    "notes": "Possibly a reduplication of earlier **aw. Often reduced to *áuw.",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ám",
+    "IPA": "['am]",
+    "gloss": "one",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "m-",
+    "IPA": "[m]",
+    "gloss": "not",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "mán",
+    "IPA": "['man]",
+    "gloss": "none",
+    "derivatives": "",
+    "notes": "Often confused and merged with *mána.",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚúcew",
+    "IPA": "",
+    "gloss": "rice",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "mhémawu",
+    "IPA": "",
+    "gloss": "wild rice",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nᵚíwu",
+    "IPA": "",
+    "gloss": "Larihica rice",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yoniw",
+    "IPA": "",
+    "gloss": "Japonica rice",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hótsiwu",
+    "IPA": "",
+    "gloss": "grass",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚawu",
+    "IPA": "",
+    "gloss": "wildgrass",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kunᵚuw",
+    "IPA": "",
+    "gloss": "meadowgrass",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tᵚinguw",
+    "IPA": "",
+    "gloss": "tree",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rétiw",
+    "IPA": "",
+    "gloss": "fir tree",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fhángiwu",
+    "IPA": "",
+    "gloss": "evergreen tree",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yátsawu",
+    "IPA": "",
+    "gloss": "evergreen oak",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yotumu",
+    "IPA": "",
+    "gloss": "evergreen fir",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ngimhuw",
+    "IPA": "",
+    "gloss": "oak",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "mhésiw",
+    "IPA": "",
+    "gloss": "oak wood",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tésiw",
+    "IPA": "",
+    "gloss": "downed oak log",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rúsimu",
+    "IPA": "",
+    "gloss": "oak tree",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hápaw",
+    "IPA": "",
+    "gloss": "spine, thorn",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "phásow",
+    "IPA": "",
+    "gloss": "green",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kútsiwu",
+    "IPA": "",
+    "gloss": "plant",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rátayu",
+    "IPA": "",
+    "gloss": "shrub",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚucuw",
+    "IPA": "",
+    "gloss": "sapling",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nghápiang",
+    "IPA": "",
+    "gloss": "to germinate (of a tree)",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fhápang",
+    "IPA": "",
+    "gloss": "to germinate (of a plant)",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yesew",
+    "IPA": "",
+    "gloss": "bush, thicket",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "chímiwu",
+    "IPA": "",
+    "gloss": "puddle",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "réniru",
+    "IPA": "",
+    "gloss": "mountain",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yetsewu",
+    "IPA": "",
+    "gloss": "hill",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rútsᵚow",
+    "IPA": "",
+    "gloss": "glacier",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rutiw",
+    "IPA": "",
+    "gloss": "snow",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tᵚupaw",
+    "IPA": "",
+    "gloss": "sea",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "chósow",
+    "IPA": "",
+    "gloss": "valley",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rániyu",
+    "IPA": "",
+    "gloss": "plain",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "pínu",
+    "IPA": "",
+    "gloss": "beach",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yénaru",
+    "IPA": "",
+    "gloss": "river",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yófow",
+    "IPA": "",
+    "gloss": "peninsula",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "phísow",
+    "IPA": "",
+    "gloss": "island",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tsúsaw",
+    "IPA": "",
+    "gloss": "forest",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "píru",
+    "IPA": "",
+    "gloss": "swamp",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "cámhew",
+    "IPA": "",
+    "gloss": "meadow",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ráseru",
+    "IPA": "",
+    "gloss": "tundra",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "péphiw",
+    "IPA": "",
+    "gloss": "bush",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "larisu",
+    "IPA": "",
+    "gloss": "flower",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yisiru",
+    "IPA": "",
+    "gloss": "blossom",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "cúnghuw",
+    "IPA": "",
+    "gloss": "cherry",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tᵚVmuw",
+    "IPA": "",
+    "gloss": "pear",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hosuwu",
+    "IPA": "",
+    "gloss": "peach",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "husewu",
+    "IPA": "",
+    "gloss": "grape",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hVteyu",
+    "IPA": "",
+    "gloss": "apple",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hétenu",
+    "IPA": "",
+    "gloss": "fruit, vegetable",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yosomu",
+    "IPA": "",
+    "gloss": "meat",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hitᵚew",
+    "IPA": "",
+    "gloss": "cow, beef",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "phenow",
+    "IPA": "",
+    "gloss": "boar, pork",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nghesiw",
+    "IPA": "",
+    "gloss": "white",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "phosow",
+    "IPA": "",
+    "gloss": "black",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yusᵚew",
+    "IPA": "",
+    "gloss": "red",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tᵚipuw",
+    "IPA": "",
+    "gloss": "blue",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "renᵚuw",
+    "IPA": "",
+    "gloss": "yellow",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ráturu",
+    "IPA": "",
+    "gloss": "mudbrick",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hátsᵚaw",
+    "IPA": "",
+    "gloss": "knife, dagger",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yítsenu",
+    "IPA": "",
+    "gloss": "drought",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yósew",
+    "IPA": "",
+    "gloss": "fermentation",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fímhatsa",
+    "IPA": "",
+    "gloss": "to ferment",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yuru",
+    "IPA": "",
+    "gloss": "yeast",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚocuw",
+    "IPA": "",
+    "gloss": "mead",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kesoyu",
+    "IPA": "",
+    "gloss": "honey",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hénghow",
+    "IPA": "",
+    "gloss": "bee",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hénghokatsenu",
+    "IPA": "",
+    "gloss": "beehive",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "katsenu",
+    "IPA": "",
+    "gloss": "house",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "húcuw",
+    "IPA": "",
+    "gloss": "gem",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nghongaw",
+    "IPA": "",
+    "gloss": "pot",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kophew",
+    "IPA": "",
+    "gloss": "clay",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hatsonu",
+    "IPA": "",
+    "gloss": "rice straw",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "púru",
+    "IPA": "",
+    "gloss": "grass straw",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yanghiw",
+    "IPA": "",
+    "gloss": "thatch",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yetamu",
+    "IPA": "",
+    "gloss": "hut",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nénu",
+    "IPA": "",
+    "gloss": "bamboo",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tsᵚengow",
+    "IPA": "",
+    "gloss": "reed",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yícew",
+    "IPA": "",
+    "gloss": "land bird",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ngephow",
+    "IPA": "",
+    "gloss": "sea bird",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "mhéyu",
+    "IPA": "",
+    "gloss": "deer",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rátsonu",
+    "IPA": "",
+    "gloss": "large deer",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ngiyu",
+    "IPA": "",
+    "gloss": "stag",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fhopew",
+    "IPA": "",
+    "gloss": "fawn",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "cánghuw",
+    "IPA": "",
+    "gloss": "doe",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ótsaw",
+    "IPA": "",
+    "gloss": "humble term of address",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ina",
+    "IPA": "",
+    "gloss": "endearing term of address",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tútow",
+    "IPA": "",
+    "gloss": "familial term of address",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "lári",
+    "IPA": "",
+    "gloss": "diminutive term of address",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "caruchita",
+    "IPA": "",
+    "gloss": "augmentative term of address",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hutsaru",
+    "IPA": "",
+    "gloss": "village",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ngéwu",
+    "IPA": "",
+    "gloss": "farm",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nᵚámow",
+    "IPA": "",
+    "gloss": "city",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚómaw",
+    "IPA": "",
+    "gloss": "tunic",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yanayu",
+    "IPA": "",
+    "gloss": "pants",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kotirísowu",
+    "IPA": "",
+    "gloss": "shoemaker",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rísowu",
+    "IPA": "",
+    "gloss": "shoe",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hétemu",
+    "IPA": "",
+    "gloss": "butcher",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚúcotsa",
+    "IPA": "",
+    "gloss": "to kill",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hutuang",
+    "IPA": "",
+    "gloss": "to live (at)",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kótitsa",
+    "IPA": "",
+    "gloss": "to do, make",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "camhaw",
+    "IPA": "",
+    "gloss": "mouth",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "katiwu",
+    "IPA": "",
+    "gloss": "blood",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nosow",
+    "IPA": "",
+    "gloss": "bone",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yínenu",
+    "IPA": "",
+    "gloss": "to spit",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nghúcuwu",
+    "IPA": "",
+    "gloss": "breast",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fhényang",
+    "IPA": "",
+    "gloss": "to come",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kénew",
+    "IPA": "",
+    "gloss": "root",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tsᵚofaw",
+    "IPA": "",
+    "gloss": "name",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yámiw",
+    "IPA": "",
+    "gloss": "wing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ranguw",
+    "IPA": "",
+    "gloss": "louse, tick",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yafhaw",
+    "IPA": "",
+    "gloss": "wing",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kanuyu",
+    "IPA": "",
+    "gloss": "flesh",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hochaw",
+    "IPA": "",
+    "gloss": "arm",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yatsimu",
+    "IPA": "",
+    "gloss": "hand",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kutoyu",
+    "IPA": "",
+    "gloss": "tanner",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yámhutsa",
+    "IPA": "",
+    "gloss": "to fly",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kachiw",
+    "IPA": "",
+    "gloss": "night",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hosiwu",
+    "IPA": "",
+    "gloss": "day",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nghowu",
+    "IPA": "",
+    "gloss": "ear",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kítsumu",
+    "IPA": "",
+    "gloss": "sun",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sáfhiw",
+    "IPA": "",
+    "gloss": "moon",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "páphow",
+    "IPA": "",
+    "gloss": "sky",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kínow",
+    "IPA": "",
+    "gloss": "head",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yítsiw",
+    "IPA": "",
+    "gloss": "neck",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fhopiw",
+    "IPA": "",
+    "gloss": "far",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yesanu",
+    "IPA": "",
+    "gloss": "near",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yotawu",
+    "IPA": "",
+    "gloss": "thin",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kituyu",
+    "IPA": "",
+    "gloss": "wide",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "phósow",
+    "IPA": "",
+    "gloss": "big",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tsᵚópuw",
+    "IPA": "",
+    "gloss": "small",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yótsiyu",
+    "IPA": "",
+    "gloss": "stone",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "mónghew",
+    "IPA": "",
+    "gloss": "bitter",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "chánang",
+    "IPA": "",
+    "gloss": "to say",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "néang",
+    "IPA": "",
+    "gloss": "to speak",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ngárang",
+    "IPA": "",
+    "gloss": "to tell",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "híchow",
+    "IPA": "",
+    "gloss": "tooth",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "phócuw",
+    "IPA": "",
+    "gloss": "hair",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yosow",
+    "IPA": "",
+    "gloss": "big",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tsatsuw",
+    "IPA": "",
+    "gloss": "leg",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rachow",
+    "IPA": "",
+    "gloss": "foot",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fhucewu",
+    "IPA": "",
+    "gloss": "horn",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "retayu",
+    "IPA": "",
+    "gloss": "fish",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "mhétsiw",
+    "IPA": "",
+    "gloss": "yesterday",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚáru",
+    "IPA": "",
+    "gloss": "today",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "chácatsa",
+    "IPA": "",
+    "gloss": "to drink",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ngóphiw",
+    "IPA": "",
+    "gloss": "navel",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "chácetsa",
+    "IPA": "",
+    "gloss": "to stand",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚapuw",
+    "IPA": "",
+    "gloss": "to bite",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kátumu",
+    "IPA": "",
+    "gloss": "back",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "húsᵚaw",
+    "IPA": "",
+    "gloss": "wind",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fánghuw",
+    "IPA": "",
+    "gloss": "smoke",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kósaru",
+    "IPA": "",
+    "gloss": "child",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "haseyu",
+    "IPA": "",
+    "gloss": "egg",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yátsonu",
+    "IPA": "",
+    "gloss": "to give",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "mhesuw",
+    "IPA": "",
+    "gloss": "new",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hótsoang",
+    "IPA": "",
+    "gloss": "to burn",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hánumu",
+    "IPA": "",
+    "gloss": "good",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚicuw",
+    "IPA": "",
+    "gloss": "bad",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚángiw",
+    "IPA": "",
+    "gloss": "to know",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rolew",
+    "IPA": "",
+    "gloss": "knee",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "mharu",
+    "IPA": "",
+    "gloss": "sand",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nghéfowu",
+    "IPA": "",
+    "gloss": "to laugh",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hánuru",
+    "IPA": "",
+    "gloss": "to hear",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yísewu",
+    "IPA": "",
+    "gloss": "soil",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fhewu",
+    "IPA": "",
+    "gloss": "leaf",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rusenu",
+    "IPA": "",
+    "gloss": "liver",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fhemiwu",
+    "IPA": "",
+    "gloss": "to hide",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "phenew",
+    "IPA": "",
+    "gloss": "to cover",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rúsiw",
+    "IPA": "",
+    "gloss": "skin",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "chútsow",
+    "IPA": "",
+    "gloss": "to suck",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hunuw",
+    "IPA": "",
+    "gloss": "to carry",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nanew",
+    "IPA": "",
+    "gloss": "ant",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tᵚímiw",
+    "IPA": "",
+    "gloss": "heavy",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kósᵚuw",
+    "IPA": "",
+    "gloss": "to take",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nghátew",
+    "IPA": "",
+    "gloss": "old",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nᵚópuw",
+    "IPA": "",
+    "gloss": "to eat",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yásoyu",
+    "IPA": "",
+    "gloss": "thigh",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚícaw",
+    "IPA": "",
+    "gloss": "thick",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "réchow",
+    "IPA": "",
+    "gloss": "long",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rasᵚuha",
+    "IPA": "",
+    "gloss": "to blow",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "résumu",
+    "IPA": "",
+    "gloss": "wood",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kétetsa",
+    "IPA": "",
+    "gloss": "to run",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "hisuyang",
+    "IPA": "",
+    "gloss": "to fall",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "cochaw",
+    "IPA": "",
+    "gloss": "eye",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yésayu",
+    "IPA": "",
+    "gloss": "ash",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yóchew",
+    "IPA": "",
+    "gloss": "tail",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ruchiw",
+    "IPA": "",
+    "gloss": "dog",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yotᵚitsa",
+    "IPA": "",
+    "gloss": "to cry",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kéneitsa",
+    "IPA": "",
+    "gloss": "to tie",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kópatsa",
+    "IPA": "",
+    "gloss": "to see",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rénuw",
+    "IPA": "",
+    "gloss": "sweet",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "sᵚíngiw",
+    "IPA": "",
+    "gloss": "rope",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "phutsiw",
+    "IPA": "",
+    "gloss": "shade",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ketsayu",
+    "IPA": "",
+    "gloss": "salt",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rifhow",
+    "IPA": "",
+    "gloss": "wide",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tósiw",
+    "IPA": "",
+    "gloss": "star",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "rútsew",
+    "IPA": "",
+    "gloss": "hard",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "mhepiwang",
+    "IPA": "",
+    "gloss": "to crush",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yáphew",
+    "IPA": "",
+    "gloss": "wheat",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "máfhow",
+    "IPA": "",
+    "gloss": "hay",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "tsúnu",
+    "IPA": "",
+    "gloss": "rope",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "chocowu",
+    "IPA": "",
+    "gloss": "fat",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "féchew",
+    "IPA": "",
+    "gloss": "feather",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kisonu",
+    "IPA": "",
+    "gloss": "nail",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "kútaitsa",
+    "IPA": "",
+    "gloss": "to smell",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fínatsa",
+    "IPA": "",
+    "gloss": "to breathe",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "mewu",
+    "IPA": "",
+    "gloss": "bad smell",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "yétsomu",
+    "IPA": "",
+    "gloss": "good smell",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "nghócewu",
+    "IPA": "",
+    "gloss": "snow",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "ratoru",
+    "IPA": "",
+    "gloss": "ice",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "cumhaw",
+    "IPA": "",
+    "gloss": "smoke",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "fáfhiw",
+    "IPA": "",
+    "gloss": "fire",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "o-",
+    "IPA": "",
+    "gloss": "augmentative",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  },
+  {
+    "form": "átsawu",
+    "IPA": "",
+    "gloss": "master",
+    "derivatives": "",
+    "notes": "",
+    "etymology": "",
+    "partOfSpeech": ""
+  }
+]

@@ -1,0 +1,28 @@
+{{ $data := index .Site.Data.lariha }}
+
+<table class="lexicon">
+  <thead>
+    <tr>
+      <th scope="col">form</th>
+      <th scope="col">IPA</th>
+      <th scope="col">gloss</th>
+      <th scope="col">derivatives</th>
+      <th scope="col">notes</th>
+      <th scope="col">etymology</th>
+      <th scope="col">part of speech</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $data }}
+    <tr>
+      <td>{{ .form }}</td>
+      <td>{{ .IPA }}</td>
+      <td>{{ .gloss }}</td>
+      <td>{{ .derivatives }}</td>
+      <td>{{ .notes }}</td>
+      <td>{{ .etymology }}</td>
+      <td>{{ .partOfSpeech }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
