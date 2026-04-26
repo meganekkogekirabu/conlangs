@@ -1,5 +1,8 @@
 conlangs.localhost
 
 encode gzip
-root /srv
-file_server
+
+handle_path /conlangs/* {
+    root * /srv
+    file_server
+}
