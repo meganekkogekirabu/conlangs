@@ -1,0 +1,14 @@
+baseURL = "https://choi.moe/conlangs"
+languageCode = "en-us"
+title = "maddi's conlangs"
+theme = "PaperMod"
+
+[params]
+mainSections = "main"
+
+[params.footer]
+hideCopyright = true
+text = "© 2026 Madeleine Choi. This site is free software, distributable under the BSD 2-clause license."
+
+[markup.goldmark.renderer]
+unsafe = true

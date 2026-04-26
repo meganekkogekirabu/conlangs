@@ -1,0 +1,5906 @@
+[
+  {
+    "lemma": "-achai",
+    "gloss": "sexualising diminutive",
+    "class": null,
+    "notes": "From achai \"kitty, obsolete.\" Usually directed toward women."
+  },
+  {
+    "lemma": "-ah",
+    "gloss": "forms adjectives from nouns",
+    "class": null,
+    "notes": "From Spanish -al"
+  },
+  {
+    "lemma": "-ai",
+    "gloss": "diminutive for things cute to the speaker",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "-ak",
+    "gloss": "(fossilised) forms nouns",
+    "class": null,
+    "notes": "It is uncertain what effect this suffix had exactly. It may have promoted the animacy of the root, as in jaisi \"craw of a bird\" > jaisiak \"Adam's apple,\" or formed nouns with a meaning of \"sth/sb. bearing sth.,\" as in acha \"load\" > achak \"donkey.\" These two uses may also be different suffixes entirely."
+  },
+  {
+    "lemma": "-ak",
+    "gloss": "reflexive clitic",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "-ek",
+    "gloss": "forms adjectives from nouns",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "-esima",
+    "gloss": "forms fractionals",
+    "class": null,
+    "notes": "E.g., chiup \"one hundred\" > chiupesima \"one one-hundredth.\""
+  },
+  {
+    "lemma": "-et",
+    "gloss": "(fossilised) demotes animacy level of a transitive verb",
+    "class": 1,
+    "notes": ""
+  },
+  {
+    "lemma": "-imi",
+    "gloss": "forms ordinal numbers",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "-isemu",
+    "gloss": "-ism",
+    "class": null,
+    "notes": "From Spanish -ismo"
+  },
+  {
+    "lemma": "-isetu",
+    "gloss": "-ist",
+    "class": null,
+    "notes": "From Spanish -isto"
+  },
+  {
+    "lemma": "-iu",
+    "gloss": "forms causative verbs from nouns: of (..sth), to somehow affect",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "-ki",
+    "gloss": "2nd person clitic",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "-na",
+    "gloss": "3rd person clitic",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "-ng",
+    "gloss": "1st person clitic",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "-ni",
+    "gloss": "agentive suffix",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "-uk",
+    "gloss": "forms nouns from verbs",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "-un",
+    "gloss": "insulting diminutive",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "... pai iuji!",
+    "gloss": "long live ...!",
+    "class": null,
+    "notes": "Literally, \"... will be forever!\""
+  },
+  {
+    "lemma": "a",
+    "gloss": "and",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "a",
+    "gloss": "huh",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "a",
+    "gloss": "(informal) what",
+    "class": null,
+    "notes": "Pronunciation spelling of ara."
+  },
+  {
+    "lemma": "acha",
+    "gloss": "load, bag; luggage (as on a vacation)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "achai",
+    "gloss": "(dated) kitty",
+    "class": null,
+    "notes": "Largely fell out of use due to its use in -achai."
+  },
+  {
+    "lemma": "achak",
+    "gloss": "donkey",
+    "class": null,
+    "notes": "Probably related to acha \"load, bag.\" See notes at -ak."
+  },
+  {
+    "lemma": "achi",
+    "gloss": "cat",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "aichi",
+    "gloss": "dragonfruit",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "aik",
+    "gloss": "to die",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "aiki",
+    "gloss": "wet",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "aikiujai",
+    "gloss": "afterlife",
+    "class": null,
+    "notes": "From aik \"to die\" + kiujai \"place.\""
+  },
+  {
+    "lemma": "ajaki",
+    "gloss": "knee",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "akawi",
+    "gloss": "a distilled alcoholic drink made from sweetcorn and flavoured with dill seed",
+    "class": null,
+    "notes": "From Latin aqua vitae. Usually between 30-40% ABV."
+  },
+  {
+    "lemma": "akohoh",
+    "gloss": "alcohol",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "aku",
+    "gloss": "self",
+    "class": null,
+    "notes": "See also: -ak"
+  },
+  {
+    "lemma": "akutih",
+    "gloss": "to turn to (..for advice, etc.); to resort to",
+    "class": null,
+    "notes": "From Spanish acutir"
+  },
+  {
+    "lemma": "aliansa",
+    "gloss": "alliance",
+    "class": null,
+    "notes": "From Spanish alianza"
+  },
+  {
+    "lemma": "ama",
+    "gloss": "mother",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "amet",
+    "gloss": "young",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "amnisetia",
+    "gloss": "amnesty",
+    "class": null,
+    "notes": "From Spanish amnistía"
+  },
+  {
+    "lemma": "Amsetertam",
+    "gloss": "Amsterdam",
+    "class": null,
+    "notes": "From Spanish Amsterdam"
+  },
+  {
+    "lemma": "angseterom",
+    "gloss": "(rare) angstrom",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "angstrom",
+    "gloss": "angstrom",
+    "class": null,
+    "notes": "Sometimes nativised to angseterom, but this is rare."
+  },
+  {
+    "lemma": "anki",
+    "gloss": "(2020s Internet slang) unc",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "apa",
+    "gloss": "father",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Aperika",
+    "gloss": "Africa",
+    "class": null,
+    "notes": "From Spanish África"
+  },
+  {
+    "lemma": "ara",
+    "gloss": "what",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Arapi",
+    "gloss": "Arab",
+    "class": null,
+    "notes": "From Arabic عَرَبِيّ "
+  },
+  {
+    "lemma": "aseka",
+    "gloss": "year",
+    "class": null,
+    "notes": "Probably from Tamazight ⴰⵙⴳⴳⵯⴰⵙ"
+  },
+  {
+    "lemma": "asu",
+    "gloss": "to do",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "at",
+    "gloss": "that",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "aterak",
+    "gloss": "(informal) ride, attraction (as at an amusement park)",
+    "class": null,
+    "notes": "Clipping of ateraksiun, ultimately from Spanish."
+  },
+  {
+    "lemma": "ateraksiun",
+    "gloss": "attraction; ride, attraction (as at an amusement park)",
+    "class": null,
+    "notes": "From Spanish atracción."
+  },
+  {
+    "lemma": "aterap",
+    "gloss": "delta (landform at the mouth of a river)",
+    "class": null,
+    "notes": "From Arabic أطراف"
+  },
+  {
+    "lemma": "ati",
+    "gloss": "to bow",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "autisemu",
+    "gloss": "autism",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "autisetu",
+    "gloss": "autist",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chachi",
+    "gloss": "cool",
+    "class": null,
+    "notes": "From Spanish chachi"
+  },
+  {
+    "lemma": "chahing",
+    "gloss": "to spit",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chaichi",
+    "gloss": "many",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chaini",
+    "gloss": "which?",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chaiq",
+    "gloss": "king",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chaiqiu",
+    "gloss": "lake",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chaji",
+    "gloss": "music",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chaki",
+    "gloss": "to pull; to distil (as a spirit)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chakiuk",
+    "gloss": "distillation",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chan",
+    "gloss": "pathetic, pitiful (endearing)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chan",
+    "gloss": "affectionate term of address for a sick person: you poor thing",
+    "class": null,
+    "notes": "Usually from a parent to their child, but also used mockingly in other situations."
+  },
+  {
+    "lemma": "chawah",
+    "gloss": "to sit (of a human)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chechih",
+    "gloss": "to cost; to have a hard time (..with sth.)",
+    "class": null,
+    "notes": "\"have a hard time\" sense is a semantic loan from Spanish costar and takes a clitic, e.g.: chechiheng konsenterah."
+  },
+  {
+    "lemma": "chek",
+    "gloss": "to walk (4)",
+    "class": 2,
+    "notes": ""
+  },
+  {
+    "lemma": "chek",
+    "gloss": "good fortune",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chek",
+    "gloss": "shore, coast",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Chekiu",
+    "gloss": "Jupiter (planet)",
+    "class": null,
+    "notes": "Perhaps related to chek “fortune,” by virtue of Jupiter’s association with good luck in Kela culture."
+  },
+  {
+    "lemma": "cheliq",
+    "gloss": "to say",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chemang",
+    "gloss": "a Kela headwear associated with Paseka (Easter)",
+    "class": null,
+    "notes": "Typically made of a pearl shell decorated with leaves or flower petals, traditionally from a hibiscus or a Tenerife bugloss."
+  },
+  {
+    "lemma": "chen",
+    "gloss": "egg (of a bird)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chen",
+    "gloss": "after",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chengi",
+    "gloss": "pearl",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chepi",
+    "gloss": "a traditional Kela food similar to a dumpling",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chichi",
+    "gloss": "pastry strips filled with jam",
+    "class": null,
+    "notes": "Usually jam of mango or cherimoya. Associated with Paseka."
+  },
+  {
+    "lemma": "Chija",
+    "gloss": "a Kela holiday falling on the autumn equinox",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chiki",
+    "gloss": "kiss (noun)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chilai",
+    "gloss": "wild, inedible berry",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chillu",
+    "gloss": "to hurt (intrans.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chinep",
+    "gloss": "banana",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chirimiu",
+    "gloss": "cherimoya",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chisam",
+    "gloss": "act, deed",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chisen",
+    "gloss": "to learn",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chiseni",
+    "gloss": "student",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chisi",
+    "gloss": "to see; to perceive (as)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chiti",
+    "gloss": "to forget",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chiuk",
+    "gloss": "here",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chiuti",
+    "gloss": "puddle",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chiuzai",
+    "gloss": "papaya",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chiza",
+    "gloss": "new",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chu",
+    "gloss": "(La Palma) man!, oh my!",
+    "class": null,
+    "notes": "Uncertain. Perhaps from Spanish tío, in which case a doublet of tiu."
+  },
+  {
+    "lemma": "chu",
+    "gloss": "more",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chu",
+    "gloss": "to squeeze",
+    "class": null,
+    "notes": "Possibly imitative in origin."
+  },
+  {
+    "lemma": "chuchu",
+    "gloss": "(vulgar) tits, knockers",
+    "class": null,
+    "notes": "From a reduplication of chu \"to squeeze.\""
+  },
+  {
+    "lemma": "chukah",
+    "gloss": "to collide, crash",
+    "class": null,
+    "notes": "Probably from Spanish chocar."
+  },
+  {
+    "lemma": "chukait",
+    "gloss": "to sell",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chupai",
+    "gloss": "to criticise",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "churiuk",
+    "gloss": "of a person, to know, recognise",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chutek",
+    "gloss": "to crack",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "chutek naichiu",
+    "gloss": "(vulgar, neologism) to have anal sex with",
+    "class": null,
+    "notes": "Literally, \"to crack (sb.'s) hibiscus.\""
+  },
+  {
+    "lemma": "e",
+    "gloss": "in, during",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "e",
+    "gloss": "toward",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "EEUU",
+    "gloss": "U.S.",
+    "class": null,
+    "notes": "From Spanish EEUU"
+  },
+  {
+    "lemma": "eje",
+    "gloss": "to call (..sb a name, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ekinoksiu",
+    "gloss": "equinox",
+    "class": null,
+    "notes": "From Spanish equinoccio"
+  },
+  {
+    "lemma": "ekinoksiu otonah",
+    "gloss": "autumnal equinox",
+    "class": null,
+    "notes": "From Spanish equinoccio otoñal"
+  },
+  {
+    "lemma": "ela",
+    "gloss": "family",
+    "class": null,
+    "notes": "From Arabic عَائِلَة"
+  },
+  {
+    "lemma": "emaing",
+    "gloss": "mango",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "emi",
+    "gloss": "(slang, informal) migrants from the Canaries to the Americas",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "emikerante",
+    "gloss": "emigrant",
+    "class": null,
+    "notes": "From Spanish emigrante. See also: emi"
+  },
+  {
+    "lemma": "enai",
+    "gloss": "to hold",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "enteranah",
+    "gloss": "to train",
+    "class": null,
+    "notes": "From Spanish entranar"
+  },
+  {
+    "lemma": "esekola",
+    "gloss": "school",
+    "class": null,
+    "notes": "From Spanish escuela"
+  },
+  {
+    "lemma": "Esepan",
+    "gloss": "Spaniard; (by extension) any European or (dated, more loosely) any foreigner",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Esetatu Unitu",
+    "gloss": "United States",
+    "class": null,
+    "notes": "From Spanish Estados Unidos"
+  },
+  {
+    "lemma": "Esetimata",
+    "gloss": "ma'am",
+    "class": null,
+    "notes": "From Spanish Estimada"
+  },
+  {
+    "lemma": "Esetimatu",
+    "gloss": "sir",
+    "class": null,
+    "notes": "From Spanish Estimado"
+  },
+  {
+    "lemma": "Esu Kerisetu",
+    "gloss": "Jesus Christ",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "gothloli",
+    "gloss": "Gothic Lolita (fashion style)",
+    "class": null,
+    "notes": "The spelling is unadapted from the English gothloli; the word is originally loaned from Chinese 哥特蘿莉, so it is pronounced ketiloli. This is sometimes reflected in the spelling, see entry for ketiloli."
+  },
+  {
+    "lemma": "hachuq",
+    "gloss": "louse",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hai",
+    "gloss": "come on!, let's go!",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "haiak",
+    "gloss": "(neologism, slang) quickly",
+    "class": null,
+    "notes": "From Japanese はやく"
+  },
+  {
+    "lemma": "haiju",
+    "gloss": "to save (prevent from going to waste; store; etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "haiki",
+    "gloss": "happy",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "haimaq",
+    "gloss": "to struggle",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "haimaqiu",
+    "gloss": "struggle (n.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "haisiuq",
+    "gloss": "pigeon",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "haiwet",
+    "gloss": "the world; Earth",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hajama",
+    "gloss": "to attack (as in a war)",
+    "class": null,
+    "notes": "From Arabic هَاجَمَ "
+  },
+  {
+    "lemma": "haka",
+    "gloss": "noble, honourable",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hakep",
+    "gloss": "constellation",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "haki",
+    "gloss": "(Christianity) saint",
+    "class": null,
+    "notes": "Probably from Ancient Greek ἅγιος"
+  },
+  {
+    "lemma": "hakija",
+    "gloss": "to strike, beat, hit",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hamiah",
+    "gloss": "safety",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hamiu",
+    "gloss": "safe",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hapak",
+    "gloss": "flavour",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "harama",
+    "gloss": "to ban, forbid",
+    "class": null,
+    "notes": "From Arabic حَرَّمَ"
+  },
+  {
+    "lemma": "harep",
+    "gloss": "war, warfare",
+    "class": null,
+    "notes": "From Arabic حَرْب "
+  },
+  {
+    "lemma": "haruka",
+    "gloss": "bread",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hejem",
+    "gloss": "to put forward, propose",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hemiung",
+    "gloss": "to feel",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "heng",
+    "gloss": "paternal aunt",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hengiu",
+    "gloss": "Kela utensil similar to chopsticks",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hengiuk",
+    "gloss": "least",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hequk",
+    "gloss": "tail (thin, as on most mammals); (childish) butt",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hikiq",
+    "gloss": "knee",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "himaq",
+    "gloss": "(Hiullumisetu slang) Canarian revolution",
+    "class": null,
+    "notes": "From a rural Keluchek pronunciation spelling of haimaqiu (\"struggle\")."
+  },
+  {
+    "lemma": "Himaq",
+    "gloss": "the Canarian revolution of the 1970s-80s",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "himejosi",
+    "gloss": "himejoshi: female fan of yuri",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "himetansi",
+    "gloss": "himedanshi: male fan of yuri",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hipai",
+    "gloss": "breast",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hiu",
+    "gloss": "again",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hiu-",
+    "gloss": "re-",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hiulluma",
+    "gloss": "reform",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Hiullumisemu",
+    "gloss": "Reformism, a Kela independence movement",
+    "class": null,
+    "notes": "This is a pun that only works in Kela. It can be interpreted either as hiu- + lluma + -isemu \"reformist,\" or hiu- + llumi + -isemu \"freedom-again-ism.\""
+  },
+  {
+    "lemma": "Hiullumisetu",
+    "gloss": "Reformist",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hiuza",
+    "gloss": "child",
+    "class": null,
+    "notes": "Refers to children as related to their parents, regardless of age."
+  },
+  {
+    "lemma": "hiuzai",
+    "gloss": "mast",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hmq",
+    "gloss": "(Hiullumisetu slang) abbreviation of himaq",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "huji",
+    "gloss": "hot (adjective)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hukai",
+    "gloss": "garlic",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hulek",
+    "gloss": "hair (on the head of a human)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "hungiu",
+    "gloss": "leaf",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "huri",
+    "gloss": "a Kela headwear associated with Paseka (Easter)",
+    "class": null,
+    "notes": "Necklaces of pearls and flower petals. They are, along with the chemang, supposed to symbolise the empty tomb (the shells and the leaves) and Jesus (the pearls and petals)."
+  },
+  {
+    "lemma": "husupa",
+    "gloss": "fertility",
+    "class": null,
+    "notes": "From Arabic خُصُوبَة"
+  },
+  {
+    "lemma": "huzi",
+    "gloss": "to kick",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "i",
+    "gloss": "possessive particle; adjectiviser",
+    "class": null,
+    "notes": "Goes after the possessor and before the possessed."
+  },
+  {
+    "lemma": "iaui",
+    "gloss": "yaoi, boy's love (manga or donghua depicting gay relationships)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ihu",
+    "gloss": "to don (..a coat, cape, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ik",
+    "gloss": "hungry",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ikap",
+    "gloss": "more",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "impiq",
+    "gloss": "alembic, still (device for distilling alcohol)",
+    "class": null,
+    "notes": "From Arabic إِنْبِيق"
+  },
+  {
+    "lemma": "in",
+    "gloss": "this",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Inkelese",
+    "gloss": "English",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "inkeluih",
+    "gloss": "to include",
+    "class": null,
+    "notes": "From Spanish incluir"
+  },
+  {
+    "lemma": "inkursiun",
+    "gloss": "military incursion, raid",
+    "class": null,
+    "notes": "From Spanish incursión"
+  },
+  {
+    "lemma": "intepentensia",
+    "gloss": "independence",
+    "class": null,
+    "notes": "From Spanish independencia"
+  },
+  {
+    "lemma": "intimitat",
+    "gloss": "intimacy",
+    "class": null,
+    "notes": "From Spanish intimidad"
+  },
+  {
+    "lemma": "iperu",
+    "gloss": "(poetic) sun",
+    "class": null,
+    "notes": "Probably from one of the Guanche names for Abora, a sun deity worshipped on Las Palmas."
+  },
+  {
+    "lemma": "iqaing",
+    "gloss": "cold (disease)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "iqana",
+    "gloss": "usual, typical",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "iqiut",
+    "gloss": "(vulgar, offensive, somewhat dated) term of address for an effeminate man",
+    "class": null,
+    "notes": "Among younger generations, this has largely been replaced with qiu, which is not as offensive."
+  },
+  {
+    "lemma": "Iuani",
+    "gloss": "male given name equivalent to English John, Johannes",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "iuchi",
+    "gloss": "cute",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "iuji",
+    "gloss": "forever",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "iulaing",
+    "gloss": "tall grass",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "iung",
+    "gloss": "with, using: created by means of",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "iuri",
+    "gloss": "(offensive) dyke; (LGBTQ slang) term of affection for a lesbian",
+    "class": null,
+    "notes": "Compare Bokaliri yuri."
+  },
+  {
+    "lemma": "iuri",
+    "gloss": "yuri, girl's love (manga or donghua depicting lesbian relationships)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "iusu",
+    "gloss": "preclausal passive particle",
+    "class": null,
+    "notes": "For example: iusu ngu lujainge \"I've been chosen,\" ngu lujainge \"I chose.\""
+  },
+  {
+    "lemma": "iuwa",
+    "gloss": "mountain",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ja",
+    "gloss": "still, yet",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jahanam",
+    "gloss": "hell",
+    "class": null,
+    "notes": "From Arabic جهنم"
+  },
+  {
+    "lemma": "jai",
+    "gloss": "light breeze",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jai",
+    "gloss": "since, following",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaijai",
+    "gloss": "unfertile soil",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaik",
+    "gloss": "berry",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaikiut",
+    "gloss": "typical",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jailah",
+    "gloss": "heath",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaimi",
+    "gloss": "colour",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaing",
+    "gloss": "to know",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jainge",
+    "gloss": "to choose",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jainguk",
+    "gloss": "choice",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaip",
+    "gloss": "left (vs. right); bad luck",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaipuk",
+    "gloss": "rain",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaipukek",
+    "gloss": "to rain",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaisi",
+    "gloss": "craw (of a bird)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaisiak",
+    "gloss": "Adam's apple",
+    "class": null,
+    "notes": "Probably related to jaisi \"craw of a bird.\" See -ak."
+  },
+  {
+    "lemma": "jak",
+    "gloss": "all, every, each",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jak",
+    "gloss": "thin",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaksun",
+    "gloss": "everything",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jamaim",
+    "gloss": "murder (n.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jamaimiu",
+    "gloss": "to murder",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jan",
+    "gloss": "during",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jan",
+    "gloss": "well; so, therefore; come on!",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jang",
+    "gloss": "to be able, permitted to",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "japi",
+    "gloss": "dry",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Japon",
+    "gloss": "Japan",
+    "class": null,
+    "notes": "From Spanish Japón"
+  },
+  {
+    "lemma": "japu",
+    "gloss": "shirt",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jaqem",
+    "gloss": "large saltwater fish",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jasai",
+    "gloss": "sweetcorn",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jata",
+    "gloss": "less",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jehai",
+    "gloss": "date palm",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jehing",
+    "gloss": "ocean (large, deep body of water)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jejuq",
+    "gloss": "albumen: white of an egg",
+    "class": null,
+    "notes": "Probably related to jejuqak \"placenta.\" See -ak."
+  },
+  {
+    "lemma": "jejuqak",
+    "gloss": "placenta, afterbirth",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jeli",
+    "gloss": "goat's milk",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jellek",
+    "gloss": "ever",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jena",
+    "gloss": "prison",
+    "class": null,
+    "notes": "From Bokaliri jena, from Arabic سجن."
+  },
+  {
+    "lemma": "jenani",
+    "gloss": "prisoner",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jeng",
+    "gloss": "to speak (..to sb., smth.)",
+    "class": 2,
+    "notes": ""
+  },
+  {
+    "lemma": "jengaip",
+    "gloss": "season",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jenget",
+    "gloss": "of a language, to speak",
+    "class": 1,
+    "notes": ""
+  },
+  {
+    "lemma": "jeru",
+    "gloss": "to drink",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jeruk",
+    "gloss": "drink (noun)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jeseq",
+    "gloss": "bone",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jetiu",
+    "gloss": "(obsolete) to beat, strike; (vulgar) to fuck; fuck! (intj.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jetiu amaki!",
+    "gloss": "vulgar interjection: fuck you!",
+    "class": null,
+    "notes": "Literally, \"(I) fuck your mother.\""
+  },
+  {
+    "lemma": "jin",
+    "gloss": "if",
+    "class": null,
+    "notes": "Precedes the protasis. This is typically considered more formal than ne."
+  },
+  {
+    "lemma": "jinep",
+    "gloss": "rope",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jiu",
+    "gloss": "(informal) so, therefore",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jiu",
+    "gloss": "(dated) dear, darling",
+    "class": null,
+    "notes": "From English jo. First attested when English motion pictures arrived to the Canaries."
+  },
+  {
+    "lemma": "jiucha",
+    "gloss": "food",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jiuchep",
+    "gloss": "boy",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jiuchu",
+    "gloss": "tuna",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jiungai",
+    "gloss": "drum",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jiungung",
+    "gloss": "to participate, take part in",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jiuwu",
+    "gloss": "brackish water",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jiwut",
+    "gloss": "to stroll (walk at a leisurely pace)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jukiq",
+    "gloss": "to kill",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "juli",
+    "gloss": "yellow; yolk (of an egg)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jumiuq",
+    "gloss": "to support",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "jumur",
+    "gloss": "populace, population",
+    "class": null,
+    "notes": "From Arabic جُمْهُور"
+  },
+  {
+    "lemma": "juna",
+    "gloss": "floor",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "junseh",
+    "gloss": "lesser god",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ka",
+    "gloss": "on, on top of",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ka",
+    "gloss": "would",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ka- -in",
+    "gloss": "(fossilised) forms verbs from nominals",
+    "class": 1,
+    "notes": ""
+  },
+  {
+    "lemma": "kai",
+    "gloss": "alone; (informal) just, only, simply",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Kai",
+    "gloss": "nickname for Kariuh (\"Gabriel\")",
+    "class": null,
+    "notes": "From the colloquial pronunciation of Kariuh: [kajo]."
+  },
+  {
+    "lemma": "kaiha",
+    "gloss": "how many? how much?",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kaiji",
+    "gloss": "to wish (..for)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kaikin",
+    "gloss": "to starve",
+    "class": 1,
+    "notes": ""
+  },
+  {
+    "lemma": "kairiu",
+    "gloss": "beer",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kait",
+    "gloss": "loosely, worn accessory: jewelry, headwear, etc.",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kait",
+    "gloss": "to think",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kaiti",
+    "gloss": "to follow; to arrange",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kaitiuk",
+    "gloss": "stroke (..of a pen, brush, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kalai",
+    "gloss": "dawn",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Kalai",
+    "gloss": "female given name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kalani",
+    "gloss": "garden",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Kalani",
+    "gloss": "(dated) female given name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kamah",
+    "gloss": "dromedary camel",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kaman",
+    "gloss": "ash",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kamek",
+    "gloss": "together",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kamek miqaji i",
+    "gloss": "a succession of, a series of",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kamiuneta",
+    "gloss": "truck",
+    "class": null,
+    "notes": "From Spanish camioneta"
+  },
+  {
+    "lemma": "kanah",
+    "gloss": "to walk (5)",
+    "class": 2,
+    "notes": ""
+  },
+  {
+    "lemma": "Kanari",
+    "gloss": "Canary Islands; Canarian",
+    "class": null,
+    "notes": "Largely displaced Tunchi outside of Hiullumisetu circles."
+  },
+  {
+    "lemma": "kangai",
+    "gloss": "sunset",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Kangai",
+    "gloss": "female given name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kani",
+    "gloss": "maize",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kaniut",
+    "gloss": "synonym of kopiu (\"gofio\")",
+    "class": null,
+    "notes": "Somehow related to kani (\"maize\")."
+  },
+  {
+    "lemma": "Kariuh",
+    "gloss": "male given name equivalent to Gabriel",
+    "class": null,
+    "notes": "See also: Kai"
+  },
+  {
+    "lemma": "karweh",
+    "gloss": "large boat",
+    "class": null,
+    "notes": "Probably corrupted from Portuguese caravela or Spanish carabelo"
+  },
+  {
+    "lemma": "kat",
+    "gloss": "cat",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "katap",
+    "gloss": "to write",
+    "class": null,
+    "notes": "From Arabic كتب (katab)"
+  },
+  {
+    "lemma": "kati",
+    "gloss": "dagger",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kawullain",
+    "gloss": "to shine",
+    "class": 2,
+    "notes": ""
+  },
+  {
+    "lemma": "kehuh",
+    "gloss": "synonym of akohoh (\"alcohol\")",
+    "class": null,
+    "notes": "From Arabic كُحُول"
+  },
+  {
+    "lemma": "kekem",
+    "gloss": "to move",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kekeni",
+    "gloss": "any migratory bird",
+    "class": null,
+    "notes": "Probably kekem \"to move\" + -ni (agentive suffix)."
+  },
+  {
+    "lemma": "Kela",
+    "gloss": "Kela people",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kelase",
+    "gloss": "class",
+    "class": null,
+    "notes": "From Spanish clase"
+  },
+  {
+    "lemma": "kelawu",
+    "gloss": "spike",
+    "class": null,
+    "notes": "From Spanish clavo"
+  },
+  {
+    "lemma": "kella",
+    "gloss": "seashell",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kellek",
+    "gloss": "starfish",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kelu",
+    "gloss": "blue",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Keluchek",
+    "gloss": "Las Palmas de Gran Canaria",
+    "class": null,
+    "notes": "Literally, \"blue shore.\""
+  },
+  {
+    "lemma": "kemaik",
+    "gloss": "enemy",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kenai",
+    "gloss": "cow's milk",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kengit",
+    "gloss": "dog",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kenin",
+    "gloss": "small fishing boat",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "keniu",
+    "gloss": "loyal",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Keniu",
+    "gloss": "unisex given name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "keqi",
+    "gloss": "pimple",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kerata",
+    "gloss": "grade",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "keratuah",
+    "gloss": "to graduate",
+    "class": null,
+    "notes": "From Spanish graduar."
+  },
+  {
+    "lemma": "keriol",
+    "gloss": "creole",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Kerisetu",
+    "gloss": "Christ",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kesana",
+    "gloss": "to rip",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ket",
+    "gloss": "to give",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ket jaksun",
+    "gloss": "to give one's all, do one's best",
+    "class": null,
+    "notes": "Literally, \"to give one's everything.\""
+  },
+  {
+    "lemma": "ketiloli",
+    "gloss": "(uncommon) alternative form of gothloli",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kewik",
+    "gloss": "heart (organ); soul, spirit",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ki",
+    "gloss": "you",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ki",
+    "gloss": "from; daughter of (in matronymics)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kijai",
+    "gloss": "trail, path",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Kilai",
+    "gloss": "female given name equivalent to Chloe",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "killat",
+    "gloss": "round (as a circle)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kimaik",
+    "gloss": "ocean water",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kimi",
+    "gloss": "clothes",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kin",
+    "gloss": "whence",
+    "class": null,
+    "notes": "From ki (\"from\") + in (\"this\")"
+  },
+  {
+    "lemma": "kitai",
+    "gloss": "blanket",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kiu",
+    "gloss": "to succumb, be overtaken (..by); to be submerged, to sink",
+    "class": 2,
+    "notes": ""
+  },
+  {
+    "lemma": "kiuh",
+    "gloss": "to steal",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kiujai",
+    "gloss": "place",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kiujen",
+    "gloss": "wave (of an ocean)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kiuminai",
+    "gloss": "(slang, neologism) to not care",
+    "class": null,
+    "notes": "From Japanese 興味ない"
+  },
+  {
+    "lemma": "kiuni",
+    "gloss": "sucker (..for sth)",
+    "class": null,
+    "notes": "kiu + ni"
+  },
+  {
+    "lemma": "kiureni",
+    "gloss": "thief",
+    "class": null,
+    "notes": "From kiuh \"to steal\" + -ni (agentive suffix)."
+  },
+  {
+    "lemma": "kmn",
+    "gloss": "(texting) abbreviation of kiuminai",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "koche",
+    "gloss": "car",
+    "class": null,
+    "notes": "From Spanish coche"
+  },
+  {
+    "lemma": "kolonisasiu",
+    "gloss": "colonisation",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "komi",
+    "gloss": "to smell (trans.)",
+    "class": null,
+    "notes": "To say \"smell like,\" use i (adjz.) + komiuk + kuti (equative copula), e.g.: sengai i komiuk kuti tai \"Canarian wine smells good.\""
+  },
+  {
+    "lemma": "komiuk",
+    "gloss": "smell (n.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kompeleho",
+    "gloss": "complex",
+    "class": null,
+    "notes": "From Spanish complejo"
+  },
+  {
+    "lemma": "kompiutah",
+    "gloss": "computer",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "komun",
+    "gloss": "common, commonly",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kong",
+    "gloss": "traditional Kela utensil similar to a ladle",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Kong",
+    "gloss": "Ursa Major",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "konsenterah",
+    "gloss": "to concentrate (..one's attention, etc.)",
+    "class": null,
+    "notes": "From Spanish concentrar(se)"
+  },
+  {
+    "lemma": "kopiu",
+    "gloss": "gofio: Canarian flour made of roasted maize",
+    "class": null,
+    "notes": "A borrowing from Guanche. Compare Spanish gofio."
+  },
+  {
+    "lemma": "korekta",
+    "gloss": "correct",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "korila",
+    "gloss": "gorilla",
+    "class": null,
+    "notes": "From Spanish gorila"
+  },
+  {
+    "lemma": "kosiu",
+    "gloss": "red (coloured, adj)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kot",
+    "gloss": "red (colour, n)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kota",
+    "gloss": "north",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kowierno",
+    "gloss": "government",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ku",
+    "gloss": "negative used only for kuti and mai",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ku",
+    "gloss": "like, such as",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kuakua",
+    "gloss": "bus",
+    "class": null,
+    "notes": "From Canarian Spanish guagua."
+  },
+  {
+    "lemma": "kuluq",
+    "gloss": "honey",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kulutailai",
+    "gloss": "mead",
+    "class": null,
+    "notes": "From kuluq \"honey\" + tailai \"alcoholic drink.\""
+  },
+  {
+    "lemma": "kung",
+    "gloss": "of a girl, pretty",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Kung",
+    "gloss": "female given name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kuni",
+    "gloss": "traditional Kela dance form",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kupan",
+    "gloss": "Sacramental bread",
+    "class": null,
+    "notes": "From Arabic قربان"
+  },
+  {
+    "lemma": "kurai",
+    "gloss": "strong wind",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kusium",
+    "gloss": "bird",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kut",
+    "gloss": "grease, oil, fat",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "kuti",
+    "gloss": "to have; there be (existential copula); equative copula for noun = adjective; forms verbs from nouns",
+    "class": null,
+    "notes": "In the equative sense, it only applies to certain adjectives. It generally cannot be used to describe abstract adjectives like colours nor adjectives of action such as maiki \"fast.\" Also forms eventive verbs from nouns postpositively: chiki \"kiss (n.)\" > chiki kuti \"to kiss.\""
+  },
+  {
+    "lemma": "kutu",
+    "gloss": "of water, calm",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "l",
+    "gloss": "(texting) abbreviation of lu",
+    "class": null,
+    "notes": "This is typically only when acting as a prefix, as in lmiungk (\"to have told a lie\")."
+  },
+  {
+    "lemma": "laiku",
+    "gloss": "white (colour, or adj. coloured such)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "laimiuk",
+    "gloss": "pinecone",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "laiti",
+    "gloss": "feather",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "laiti",
+    "gloss": "to understand",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "laiwaq",
+    "gloss": "name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "laji",
+    "gloss": "some",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lami",
+    "gloss": "landmine",
+    "class": null,
+    "notes": "From Arabic لَغَم"
+  },
+  {
+    "lemma": "laminai",
+    "gloss": "(derogatory) mentally unstable girl",
+    "class": null,
+    "notes": "From lami (\"landmine\") + a clipping of naiheng (\"girl\"). Calque from Japanese 地雷女 (jirai shoujo)."
+  },
+  {
+    "lemma": "lapaza",
+    "gloss": "to pronounce (a word)",
+    "class": null,
+    "notes": "From Arabic لَفَظَ"
+  },
+  {
+    "lemma": "lapi",
+    "gloss": "pen (writing utensil)",
+    "class": null,
+    "notes": "From Spanish lapiz (\"pencil\")."
+  },
+  {
+    "lemma": "laq a macha",
+    "gloss": "one another",
+    "class": null,
+    "notes": "Calque of Spanish unos y otros. Literally, \"one and other(s).\""
+  },
+  {
+    "lemma": "laqamacha",
+    "gloss": "alternative form of laq a macha (\"one another\")",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lari",
+    "gloss": "today; (figuratively) nowadays",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lecha",
+    "gloss": "east",
+    "class": null,
+    "notes": "Probably related to lechi “sun”"
+  },
+  {
+    "lemma": "leche",
+    "gloss": "to sit (of a cat, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lechi",
+    "gloss": "sun",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lechu",
+    "gloss": "each",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "leme",
+    "gloss": "minnow",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "leri",
+    "gloss": "strawberry",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lesut",
+    "gloss": "to blink",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lewanet",
+    "gloss": "an easterly wind blowing through the West. Med.: Levante",
+    "class": null,
+    "notes": "From Levante"
+  },
+  {
+    "lemma": "leweq",
+    "gloss": "belly",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lisut",
+    "gloss": "soil, earth (especially fertile)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "liuru",
+    "gloss": "book",
+    "class": null,
+    "notes": "From Spanish libro"
+  },
+  {
+    "lemma": "liutiu",
+    "gloss": "to celebrate",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llaijiu",
+    "gloss": "ritual; (Christianity) liturgy",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llain",
+    "gloss": "rabbit",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llaiqa",
+    "gloss": "white cap (on a wave)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llan",
+    "gloss": "above",
+    "class": null,
+    "notes": "Also used for impersonal verbs relating to weather: llan rusi \"it's raining.\""
+  },
+  {
+    "lemma": "llaqem",
+    "gloss": "to add",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llatut",
+    "gloss": "dirt (displaced soil, sand, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llatut",
+    "gloss": "to swim",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llazek",
+    "gloss": "weather",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lleche",
+    "gloss": "man",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llekih",
+    "gloss": "clover",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llete",
+    "gloss": "paternal uncle",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lliujah",
+    "gloss": "away",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lliung",
+    "gloss": "a traditional Kela feather cloak",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llot",
+    "gloss": "to eat",
+    "class": 2,
+    "notes": ""
+  },
+  {
+    "lemma": "lluja",
+    "gloss": "apple",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lluku",
+    "gloss": "to dream, fantasise",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lluma",
+    "gloss": "to make, create",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llumi",
+    "gloss": "freedom",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llumiu",
+    "gloss": "(slightly vulgar) to piss; vulgar interjection",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "llusam",
+    "gloss": "to crawl",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lokah",
+    "gloss": "local",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "loli",
+    "gloss": "Lolita (Japanese fashion style)",
+    "class": null,
+    "notes": "From Japanese ロリータ, possibly via Chinese 蘿莉"
+  },
+  {
+    "lemma": "lu",
+    "gloss": "prepositive past particle: did, already",
+    "class": null,
+    "notes": "Unless separated by an adverb, this attaches itself to the verb: lucheliq, lu haiki cheliq."
+  },
+  {
+    "lemma": "lullait",
+    "gloss": "recent",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "lumi",
+    "gloss": "to bite",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ma",
+    "gloss": "to",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "macha",
+    "gloss": "other",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mai",
+    "gloss": "to be at (..a place)",
+    "class": 2,
+    "notes": ""
+  },
+  {
+    "lemma": "mai",
+    "gloss": "who?",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "maijek",
+    "gloss": "bark (of a tree)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "maik",
+    "gloss": "side",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "maiki",
+    "gloss": "fast",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "maiking",
+    "gloss": "freshwater",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "maikiu",
+    "gloss": "soup",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "maila",
+    "gloss": "strong",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Maila",
+    "gloss": "male given name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mailiu",
+    "gloss": "to be strong",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "maiqek",
+    "gloss": "beehive",
+    "class": null,
+    "notes": "Probably from an earlier *mairiuqek, literally, \"bee home.\""
+  },
+  {
+    "lemma": "mairiu",
+    "gloss": "bee",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "maitai",
+    "gloss": "a traditional Kela festivity celebrating passage into adulthood",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "maji",
+    "gloss": "around, near: in the vicinity of",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "majiqa",
+    "gloss": "to last (over time), endure",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "make",
+    "gloss": "to get, obtain, gain",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mang",
+    "gloss": "to tell",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mansana",
+    "gloss": "apple",
+    "class": null,
+    "notes": "From Spanish manzana"
+  },
+  {
+    "lemma": "mansu",
+    "gloss": "(literally) to simmer; (figuratively) to go out, fade out",
+    "class": null,
+    "notes": "Probably not related to Spanish manso."
+  },
+  {
+    "lemma": "Manweh",
+    "gloss": "male given name equivalent to Emanuel, Manuel",
+    "class": null,
+    "notes": "See also: Mau"
+  },
+  {
+    "lemma": "mapu",
+    "gloss": "neck",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mapukait",
+    "gloss": "necklace",
+    "class": null,
+    "notes": "From mapu \"neck\" + kait \"worn accessory.\""
+  },
+  {
+    "lemma": "marcha",
+    "gloss": "gear (..as on a car)",
+    "class": null,
+    "notes": "From Spanish marcha"
+  },
+  {
+    "lemma": "mari",
+    "gloss": "a Kela food consisting of deep fried banana dough",
+    "class": null,
+    "notes": "Usually topped with cherimoya jam or butter and associated with Paseka."
+  },
+  {
+    "lemma": "masala",
+    "gloss": "to represent, stand in place for; to represent (as in a parliament, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "masali",
+    "gloss": "torch; lighter",
+    "class": null,
+    "notes": "From Arabic مَشْعَل"
+  },
+  {
+    "lemma": "masang",
+    "gloss": "crab apple",
+    "class": null,
+    "notes": "From Portuguese maçã via Bokaliri masang."
+  },
+  {
+    "lemma": "matikani",
+    "gloss": "to correct, rectify",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Mau",
+    "gloss": "nickname for Manweh",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mawata",
+    "gloss": "pagan (n., especially a woman)",
+    "class": null,
+    "notes": "From Guanche maguada, referring to one of a group of pagan priestesses."
+  },
+  {
+    "lemma": "meke",
+    "gloss": "to pay mind, pay attention to",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mekiq",
+    "gloss": "to sprint",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "melain",
+    "gloss": "mash",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "meng",
+    "gloss": "(fandom slang) moe: of an anime or donghua character, cute",
+    "class": null,
+    "notes": "From Mandarin 萌 (méng)"
+  },
+  {
+    "lemma": "mengai",
+    "gloss": "pouch, sack; leather appliance for carrying things",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Mengai",
+    "gloss": "Ursa Minor",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mengai",
+    "gloss": "(neologism) darling, dear",
+    "class": null,
+    "notes": "From meng \"moe, cute\" + -ai (endearing diminutive). Usually associated with himejoshis."
+  },
+  {
+    "lemma": "mengi",
+    "gloss": "sardine",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Mensai",
+    "gloss": "Guanche",
+    "class": null,
+    "notes": "Compare Spanish mencey (\"a Guanche king\")."
+  },
+  {
+    "lemma": "mequh",
+    "gloss": "tongue (body part); language",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "meraik",
+    "gloss": "skin",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "meru",
+    "gloss": "to drink (an alcoholic drink)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "meru",
+    "gloss": "day",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "merukeni",
+    "gloss": "drunkard, drinker: someone who consumes alcohol frequently",
+    "class": null,
+    "notes": "From meru \"of an alcoholic drink, to consume\" + -ni (agentive suffix)."
+  },
+  {
+    "lemma": "metapora",
+    "gloss": "metaphor",
+    "class": null,
+    "notes": "From Spanish metáfora"
+  },
+  {
+    "lemma": "meteng",
+    "gloss": "actually, finally",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "metoto",
+    "gloss": "method",
+    "class": null,
+    "notes": "From Spanish método"
+  },
+  {
+    "lemma": "mezap",
+    "gloss": "to pay",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mi",
+    "gloss": "within, inside",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mi-",
+    "gloss": "forms causative verbs from verbs: to cause to do (sth.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "michi",
+    "gloss": "pine tree",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "michiq",
+    "gloss": "to stand",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mikau",
+    "gloss": "to dress",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mikero-",
+    "gloss": "micro-",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "miki",
+    "gloss": "worm",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mikiak",
+    "gloss": "noodle",
+    "class": null,
+    "notes": "Related to miki (\"worm\")."
+  },
+  {
+    "lemma": "mila",
+    "gloss": "mile",
+    "class": null,
+    "notes": "From Spanish milla"
+  },
+  {
+    "lemma": "milaiti",
+    "gloss": "to teach",
+    "class": null,
+    "notes": "From mi- (causative) + laiti (\"to understand\")."
+  },
+  {
+    "lemma": "militah",
+    "gloss": "military",
+    "class": null,
+    "notes": "From Spanish militar"
+  },
+  {
+    "lemma": "miliun",
+    "gloss": "million",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "miniuzim",
+    "gloss": "to spark",
+    "class": null,
+    "notes": "mi- + niuzim"
+  },
+  {
+    "lemma": "mipa",
+    "gloss": "secret (adj.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "miqaji",
+    "gloss": "to join",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mise",
+    "gloss": "crane (bird)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "misi",
+    "gloss": "melon",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "miu",
+    "gloss": "meow; to meow",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "miujai",
+    "gloss": "formidable",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "miujung",
+    "gloss": "flower",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Miujung",
+    "gloss": "female given name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "miuk",
+    "gloss": "being, self",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "miune",
+    "gloss": "sick",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "miungak",
+    "gloss": "to tell a lie",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "miunuk",
+    "gloss": "sky",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "miwa",
+    "gloss": "to moor",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mm",
+    "gloss": "mhm!, yeah!",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mohika",
+    "gloss": "to bear, brandish; of a hobby, activity, etc., to take up",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Monkolia",
+    "gloss": "Mongolia",
+    "class": null,
+    "notes": "From Spanish Mongolia"
+  },
+  {
+    "lemma": "montania rusa",
+    "gloss": "rollercoaster",
+    "class": null,
+    "notes": "From Spanish montaña rusa"
+  },
+  {
+    "lemma": "motin",
+    "gloss": "riot",
+    "class": null,
+    "notes": "From Spanish motín"
+  },
+  {
+    "lemma": "motosiera",
+    "gloss": "chainsaw",
+    "class": null,
+    "notes": "From Spanish motosierra"
+  },
+  {
+    "lemma": "mowimientu",
+    "gloss": "social movement",
+    "class": null,
+    "notes": "From Spanish movimiento"
+  },
+  {
+    "lemma": "mu",
+    "gloss": "not",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mu matikani",
+    "gloss": "sorry (intj.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "muhai",
+    "gloss": "axe",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "muhim",
+    "gloss": "important",
+    "class": null,
+    "notes": "From Arabic مُهِمّ"
+  },
+  {
+    "lemma": "mumu",
+    "gloss": "(childish) boobs",
+    "class": null,
+    "notes": "Imitative."
+  },
+  {
+    "lemma": "mung",
+    "gloss": "romantic love",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mungai",
+    "gloss": "(somewhat dated) darling, honey",
+    "class": null,
+    "notes": "From mung \"romantic love\" + -ai (endearing diminutive)."
+  },
+  {
+    "lemma": "mungiu",
+    "gloss": "to affect romantic love; to be loved by",
+    "class": null,
+    "notes": "For example, I love you translates to ki mungiung, literally \"you cause me love for you.\""
+  },
+  {
+    "lemma": "muniut",
+    "gloss": "short grass",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mupai",
+    "gloss": "don't (imp.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mupi",
+    "gloss": "or else",
+    "class": null,
+    "notes": "From mu + pi. Compare Chinese 否則 for a similar semantic development."
+  },
+  {
+    "lemma": "muratek",
+    "gloss": "unsociable",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "mutah",
+    "gloss": "available",
+    "class": null,
+    "notes": "From Arabic مُتَاح"
+  },
+  {
+    "lemma": "muzi",
+    "gloss": "banana",
+    "class": null,
+    "notes": "From Arabic مَوْز"
+  },
+  {
+    "lemma": "na",
+    "gloss": "he",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nachu",
+    "gloss": "healthy",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "naichiu",
+    "gloss": "hibiscus",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "naiheng",
+    "gloss": "girl",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "naiqu",
+    "gloss": "west",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "naiqum",
+    "gloss": "to happen",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nak",
+    "gloss": "as (equalling)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nana",
+    "gloss": "to lose",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nana pelli",
+    "gloss": "to lose heart, be disheartened",
+    "class": null,
+    "notes": "Literally, \"to lose life.\""
+  },
+  {
+    "lemma": "nano-",
+    "gloss": "nano-",
+    "class": null,
+    "notes": "From Spanish nano-"
+  },
+  {
+    "lemma": "naqa",
+    "gloss": "female camel",
+    "class": null,
+    "notes": "From Arabic نَاقَة"
+  },
+  {
+    "lemma": "nariu",
+    "gloss": "nest",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nasiun",
+    "gloss": "nation",
+    "class": null,
+    "notes": "From Spanish nación"
+  },
+  {
+    "lemma": "nasiunah",
+    "gloss": "national",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nasiunalisemu",
+    "gloss": "nationalism",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nasiunalisetu",
+    "gloss": "nationalist",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nasiunek",
+    "gloss": "national",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nasiunekisemu",
+    "gloss": "nationalism",
+    "class": null,
+    "notes": "This has a more Hiullumisetu connotation to it than nasiunalisemu."
+  },
+  {
+    "lemma": "nasiunekisetu",
+    "gloss": "nationalist",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nasu",
+    "gloss": "text",
+    "class": null,
+    "notes": "From Arabic نَصّ (naṣṣ)"
+  },
+  {
+    "lemma": "natu",
+    "gloss": "liver",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "naze",
+    "gloss": "night",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ne",
+    "gloss": "if",
+    "class": null,
+    "notes": "Less formal than jin."
+  },
+  {
+    "lemma": "ne",
+    "gloss": "but",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "neku",
+    "gloss": "cracker, wafer",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nela",
+    "gloss": "heaven;  (poetic, archaic) sky",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nepu",
+    "gloss": "to follow",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "newai",
+    "gloss": "to come from (.. a country, or as a word, a language)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nga",
+    "gloss": "full (..of)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nga-",
+    "gloss": "-ful",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngahum",
+    "gloss": "of a person, to (precisely) be (..sb, sth)",
+    "class": null,
+    "notes": "Usually followed with rawem \"surely\" or ekesato \"exactly.\""
+  },
+  {
+    "lemma": "ngai",
+    "gloss": "very",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngaiki",
+    "gloss": "bay",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngaiqi",
+    "gloss": "to seek to further (..a goal, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngajaimi",
+    "gloss": "colourful",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngakiu",
+    "gloss": "caldera",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nganek",
+    "gloss": "daughter",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngarai",
+    "gloss": "celebration, festivity, holiday",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngaza",
+    "gloss": "a deep-fried Kela pastry similar to sata andagi",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngelait",
+    "gloss": "chance",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngeng",
+    "gloss": "more (comparing two numbers)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngep",
+    "gloss": "eye",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngeweni",
+    "gloss": "(vulgar) slut, whore: adulterous woman",
+    "class": null,
+    "notes": "Probably from ngeweq \"loose\" + -ni (agentive suffix)."
+  },
+  {
+    "lemma": "ngeweq",
+    "gloss": "loose",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngiche",
+    "gloss": "behind, rear, back",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngisat",
+    "gloss": "blood",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngiu",
+    "gloss": "late",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngiucha",
+    "gloss": "always",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngiut",
+    "gloss": "green",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngu",
+    "gloss": "I",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngu tainki",
+    "gloss": "thank you",
+    "class": null,
+    "notes": "Literally, \"I am in your debt.\" Often shortened to just tainki."
+  },
+  {
+    "lemma": "ngujaq",
+    "gloss": "bright, divine; god; (Christianity) God",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nguk",
+    "gloss": "wild mushroom",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ngukiu",
+    "gloss": "pig snout",
+    "class": null,
+    "notes": "Possibly related to nguk (\"mushroom\")."
+  },
+  {
+    "lemma": "ngullai",
+    "gloss": "sand",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nilla",
+    "gloss": "rock, stone",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "niret",
+    "gloss": "to bleed",
+    "class": null,
+    "notes": "See notes at niri."
+  },
+  {
+    "lemma": "niri",
+    "gloss": "(obsolete) to spill; (vulgar) to piss",
+    "class": null,
+    "notes": "Tentatively compared to niret (\"to bleed\"), through the fossilised suffix -et (animacy-increasing verbaliser). "
+  },
+  {
+    "lemma": "niriuk",
+    "gloss": "(vulgar) piss (n.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "niungi",
+    "gloss": "hair (of an animal)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "niuriq",
+    "gloss": "long",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "niuzim",
+    "gloss": "spark",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nn",
+    "gloss": "interjection indicating disapproval",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nukaim",
+    "gloss": "brackish fish",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nupet",
+    "gloss": "to involve, entail",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "nuqeng",
+    "gloss": "of a girl, beauty; beautiful",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Nuqeng",
+    "gloss": "female given name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "okupah",
+    "gloss": "to occupy",
+    "class": null,
+    "notes": "From Spanish ocupar"
+  },
+  {
+    "lemma": "okupasiu",
+    "gloss": "occupation: profession, job",
+    "class": null,
+    "notes": "From Spanish ocupación"
+  },
+  {
+    "lemma": "orma",
+    "gloss": "form, shape",
+    "class": null,
+    "notes": "From Spanish horma"
+  },
+  {
+    "lemma": "ortokerapia",
+    "gloss": "orthography",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ota",
+    "gloss": "Bactrian camel",
+    "class": null,
+    "notes": "Ultimately from Sanskrit उष्ट्र"
+  },
+  {
+    "lemma": "owek",
+    "gloss": "fruit",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "p- -ing",
+    "gloss": "(fossilised) forms verbs from nominals",
+    "class": 1,
+    "notes": ""
+  },
+  {
+    "lemma": "pachi",
+    "gloss": "to spill",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pachit",
+    "gloss": "salmon",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pai",
+    "gloss": "to need; will (fut.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "paichi",
+    "gloss": "to get close to",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "paikan",
+    "gloss": "pagan priest",
+    "class": null,
+    "notes": "From Guanche faykan"
+  },
+  {
+    "lemma": "paipai",
+    "gloss": "clumsy (in an endearing way)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pairi",
+    "gloss": "island",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pairup",
+    "gloss": "arm",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "paisuki",
+    "gloss": "lily",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Paisuki",
+    "gloss": "female given name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "paiti",
+    "gloss": "chicken (meat)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "paizin",
+    "gloss": "short (of a person)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "paji",
+    "gloss": "hope",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pajilla",
+    "gloss": "numb",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "paka",
+    "gloss": "a pastry similar to baklava sweetened with mung bean paste",
+    "class": null,
+    "notes": "Uncertain. First attested around the 1950s. Possibly from baklava."
+  },
+  {
+    "lemma": "pake",
+    "gloss": "sad, sorry",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "paku",
+    "gloss": "all over; covering completely",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "palanka",
+    "gloss": "stickshift (the stick in a manual transmission car)",
+    "class": null,
+    "notes": "From Spanish palanca"
+  },
+  {
+    "lemma": "palara",
+    "gloss": "word",
+    "class": null,
+    "notes": "From Spanish palabra"
+  },
+  {
+    "lemma": "palu",
+    "gloss": "date (fruit)",
+    "class": null,
+    "notes": "Possibly from Arabic بَلُّوط (\"acorn\")"
+  },
+  {
+    "lemma": "panpan",
+    "gloss": "(onomatopoeic) plap; (vulgar) pussy",
+    "class": null,
+    "notes": "Resemblance to Sranantongo panpan is coincidental."
+  },
+  {
+    "lemma": "papau",
+    "gloss": "thunder",
+    "class": null,
+    "notes": "Probably imitative in origin."
+  },
+  {
+    "lemma": "papeh",
+    "gloss": "paper",
+    "class": null,
+    "notes": "From Spanish papel"
+  },
+  {
+    "lemma": "paratisu",
+    "gloss": "paradise",
+    "class": null,
+    "notes": "From Spanish paradiso"
+  },
+  {
+    "lemma": "parlamentu",
+    "gloss": "parliament",
+    "class": null,
+    "notes": "From Spanish parlamento"
+  },
+  {
+    "lemma": "parti",
+    "gloss": "(political) party",
+    "class": null,
+    "notes": "Probably from a clipping of Spanish partido."
+  },
+  {
+    "lemma": "pase",
+    "gloss": "peace",
+    "class": null,
+    "notes": "From Spanish paz."
+  },
+  {
+    "lemma": "Paseka",
+    "gloss": "(Christianity) Easter",
+    "class": null,
+    "notes": "From Ancient Greek πάσχα"
+  },
+  {
+    "lemma": "pasura",
+    "gloss": "(formal) trash",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pawu",
+    "gloss": "(informal) please",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pazaip",
+    "gloss": "butter",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pechi",
+    "gloss": "small, little",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "peh",
+    "gloss": "water",
+    "class": null,
+    "notes": "Sometimes compared to similar Nilo-Saharan words: Proto-East Nilotic *pi, Proto-West Nilotic *piː ~ *piw, etc. "
+  },
+  {
+    "lemma": "pehaiking",
+    "gloss": "to be happy",
+    "class": 1,
+    "notes": ""
+  },
+  {
+    "lemma": "peheting",
+    "gloss": "to return",
+    "class": 1,
+    "notes": "Presumably from an unattested adjective *het or *ehet."
+  },
+  {
+    "lemma": "pekiwa",
+    "gloss": "village",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pekoting",
+    "gloss": "of a fire, to light",
+    "class": 1,
+    "notes": ""
+  },
+  {
+    "lemma": "Pelhika",
+    "gloss": "Belgium",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pelinli",
+    "gloss": "to blink",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pella",
+    "gloss": "to fill",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pelli",
+    "gloss": "life",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pelliu",
+    "gloss": "to live",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pem",
+    "gloss": "to understand (..speech, a concept, etc.)",
+    "class": null,
+    "notes": "From Arabic فهم "
+  },
+  {
+    "lemma": "pemi",
+    "gloss": "way, method",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "peng",
+    "gloss": "right (vs. left); good luck",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "peninsula",
+    "gloss": "peninsula",
+    "class": null,
+    "notes": "From Spanish península"
+  },
+  {
+    "lemma": "peninsularisetu",
+    "gloss": "(Hiullumisetu) Spanish loyalist",
+    "class": null,
+    "notes": "Literally, \"peninsularist.\""
+  },
+  {
+    "lemma": "pera",
+    "gloss": "bitch",
+    "class": null,
+    "notes": "From Spanish perra"
+  },
+  {
+    "lemma": "perankotirah",
+    "gloss": "to snipe",
+    "class": null,
+    "notes": "Back-formation from perankotirani."
+  },
+  {
+    "lemma": "perankotirani",
+    "gloss": "sniper",
+    "class": null,
+    "notes": "A partial calque of Spanish francotirador: *francotirar + -ni."
+  },
+  {
+    "lemma": "Perapante",
+    "gloss": "Brabant",
+    "class": null,
+    "notes": "From Spanish Brabante"
+  },
+  {
+    "lemma": "pereokupasiun",
+    "gloss": "(formal) preoccupation, concern",
+    "class": null,
+    "notes": "From Spanish preocupación"
+  },
+  {
+    "lemma": "perepenih",
+    "gloss": "to prevent",
+    "class": null,
+    "notes": "From Spanish prevenir"
+  },
+  {
+    "lemma": "peresentah",
+    "gloss": "to present; to introduce",
+    "class": null,
+    "notes": "From Spanish presentar"
+  },
+  {
+    "lemma": "perimi",
+    "gloss": "to print",
+    "class": null,
+    "notes": "Probably from Spanish imprimir"
+  },
+  {
+    "lemma": "perita",
+    "gloss": "(slang) idiot",
+    "class": null,
+    "notes": "From a clipping of Canarian Spanish papa frita \"idiot\""
+  },
+  {
+    "lemma": "pero",
+    "gloss": "dog",
+    "class": null,
+    "notes": "From Spanish perro"
+  },
+  {
+    "lemma": "perut",
+    "gloss": "flower petal",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pesi",
+    "gloss": "to perceive",
+    "class": null,
+    "notes": "Either a clipping of an earlier Spanish loan *persiwih or a loan from English perceive."
+  },
+  {
+    "lemma": "pewan",
+    "gloss": "end",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pi",
+    "gloss": "so; then; expresses contrast with previous clause",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "picha",
+    "gloss": "moon",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "picha",
+    "gloss": "file, dossier",
+    "class": null,
+    "notes": "From Spanish ficha"
+  },
+  {
+    "lemma": "pichon",
+    "gloss": "flower",
+    "class": null,
+    "notes": "From Bokaliri ptyon"
+  },
+  {
+    "lemma": "pijin",
+    "gloss": "pidgin",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "piki",
+    "gloss": "kiss",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pikung",
+    "gloss": "time",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pilara",
+    "gloss": "to choose; would rather",
+    "class": null,
+    "notes": "E.g.: pai pilara X qu Y \"I'd rather X than Y\""
+  },
+  {
+    "lemma": "piliun",
+    "gloss": "billion",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pitera",
+    "gloss": "psilocybin mushroom",
+    "class": null,
+    "notes": "Probably from Arabic فطر"
+  },
+  {
+    "lemma": "piti",
+    "gloss": "closed (as a container); private",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "piti",
+    "gloss": "bank (of a lake, river, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pitiju",
+    "gloss": "(dated) cigarette",
+    "class": null,
+    "notes": "From Spanish pitillo. Usually shortened to tiju today."
+  },
+  {
+    "lemma": "pitiu",
+    "gloss": "to close",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "piulep",
+    "gloss": "old",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "piupiu",
+    "gloss": "shrike",
+    "class": null,
+    "notes": "Imitative of a shrike's call."
+  },
+  {
+    "lemma": "piuput",
+    "gloss": "to arrive, show up (..to work, a meeting, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "piusuk",
+    "gloss": "horn (of a bull, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Pokalih",
+    "gloss": "Ka'in language; Bokaliri people",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "polisia",
+    "gloss": "police",
+    "class": null,
+    "notes": "From Spanish policía"
+  },
+  {
+    "lemma": "politika",
+    "gloss": "politics",
+    "class": null,
+    "notes": "From Spanish política"
+  },
+  {
+    "lemma": "politikah",
+    "gloss": "political",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "populah",
+    "gloss": "popular",
+    "class": null,
+    "notes": "From Spanish popular"
+  },
+  {
+    "lemma": "Portuki",
+    "gloss": "Portuguese",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pu",
+    "gloss": "for, concerning, about",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pu pawoh",
+    "gloss": "(dated) please",
+    "class": null,
+    "notes": "From Spanish por favor. Largely superseded by pawu informally and the native resek formally."
+  },
+  {
+    "lemma": "pucha",
+    "gloss": "shrub",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pujosi",
+    "gloss": "fujoshi: female fan of yaoi",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "pukuq",
+    "gloss": "spore",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "putansi",
+    "gloss": "fudanshi: male fan of yaoi",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "puwelika",
+    "gloss": "public",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qai",
+    "gloss": "for the purpose of",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qaihi",
+    "gloss": "(formal) large, big",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qaipiu",
+    "gloss": "to kill",
+    "class": null,
+    "notes": "Primarily as in deaths during a military conflict."
+  },
+  {
+    "lemma": "qaira",
+    "gloss": "(informal) why",
+    "class": null,
+    "notes": "From qai + ara."
+  },
+  {
+    "lemma": "qairuni",
+    "gloss": "(vulgar) womaniser",
+    "class": null,
+    "notes": "From qairut \"rakish\" + -ni (agentive suffix)."
+  },
+  {
+    "lemma": "qairut",
+    "gloss": "cheerful; (euphemistic) rakish, fornicating: of a man, promiscuous",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qaisam",
+    "gloss": "layer",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qajai",
+    "gloss": "foot",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qajiki",
+    "gloss": "wide; widespread",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qamput",
+    "gloss": "hedgehog",
+    "class": null,
+    "notes": "From Arabic قنفود"
+  },
+  {
+    "lemma": "qaran",
+    "gloss": "to compare",
+    "class": null,
+    "notes": "From Arabic قارن"
+  },
+  {
+    "lemma": "qaranuk",
+    "gloss": "comparison",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qasewa",
+    "gloss": "atrocity",
+    "class": null,
+    "notes": "From Arabic قَسْوَة "
+  },
+  {
+    "lemma": "qatama",
+    "gloss": "to introduce",
+    "class": null,
+    "notes": "From Arabic قَدَّمَ"
+  },
+  {
+    "lemma": "qe",
+    "gloss": "synonym of pu: for; concerning; about",
+    "class": null,
+    "notes": "Probably related to qai \"for the purpose of.\" Considered more formal than pu."
+  },
+  {
+    "lemma": "qechiq",
+    "gloss": "meat",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qek",
+    "gloss": "home",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qela",
+    "gloss": "son",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qemi",
+    "gloss": "smoke (n.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qemiu",
+    "gloss": "to smoke (of a fire, or ..a cigarette)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qerat",
+    "gloss": "wide tail (as on a bird or fish)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qetup",
+    "gloss": "fever",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qipa",
+    "gloss": "cinnamon",
+    "class": null,
+    "notes": "From Arabic قِرْفَة"
+  },
+  {
+    "lemma": "qisai",
+    "gloss": "to try, attempt",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qiu",
+    "gloss": "vulgar interjection: fuck! shit!",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qiu-",
+    "gloss": "fucking; vulgar intensive prefix",
+    "class": null,
+    "notes": "Similar in use to Dutch kanker-. More vulgar than tellai-."
+  },
+  {
+    "lemma": "qiulleng",
+    "gloss": "mouth",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qium",
+    "gloss": "tooth",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qiuqe",
+    "gloss": "beak (of a bird)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qiure",
+    "gloss": "seal (animal)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qiusaq",
+    "gloss": "acorn",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qiuziq",
+    "gloss": "berth",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qu",
+    "gloss": "than",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qukam",
+    "gloss": "small saltwater fish",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "quma",
+    "gloss": "to help",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "quni",
+    "gloss": "cold (adjective, of weather)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qurai",
+    "gloss": "woman",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "quring",
+    "gloss": "will (motivation or want to)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "qusa",
+    "gloss": "flatbread",
+    "class": null,
+    "notes": "From Arabic قَرْصَة"
+  },
+  {
+    "lemma": "quti",
+    "gloss": "grass",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ra",
+    "gloss": "to arrive, get to; future particle",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "raihiu",
+    "gloss": "freshwater fish",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "rami",
+    "gloss": "formal",
+    "class": null,
+    "notes": "From Arabic رَسْمِيّ"
+  },
+  {
+    "lemma": "ratek",
+    "gloss": "sociable, friendly",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Ratek",
+    "gloss": "male given name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "rati",
+    "gloss": "friend",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "rellih",
+    "gloss": "winter",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "renium",
+    "gloss": "beach",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "repeh",
+    "gloss": "to vomit",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "repuwelika",
+    "gloss": "(dated) republic",
+    "class": null,
+    "notes": "Largely displaced by the native coinage sunziu."
+  },
+  {
+    "lemma": "resek",
+    "gloss": "to request; (formal) please (adv., intj.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "riah",
+    "gloss": "royal",
+    "class": null,
+    "notes": "From Spanish real"
+  },
+  {
+    "lemma": "rih",
+    "gloss": "wind; fart",
+    "class": null,
+    "notes": "From Arabic ريح"
+  },
+  {
+    "lemma": "rikeh",
+    "gloss": "body hair (of a human)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "rinkon",
+    "gloss": "corner",
+    "class": null,
+    "notes": "From Spanish rincón"
+  },
+  {
+    "lemma": "riullu",
+    "gloss": "lake water",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "riupai",
+    "gloss": "alder",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "riuqai",
+    "gloss": "beer",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "riusun",
+    "gloss": "despite",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "riuwum",
+    "gloss": "a Kela cinnamon-flavoured hard candy",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "riuzut",
+    "gloss": "salt",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "riwep",
+    "gloss": "to run",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ruhak",
+    "gloss": "storm",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "rujai",
+    "gloss": "orderly",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "runaip",
+    "gloss": "shark",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "rupai",
+    "gloss": "rib",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "rupi",
+    "gloss": "Tenerife bugloss",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ruseng",
+    "gloss": "head",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "rusengati",
+    "gloss": "to bow one's head",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "rusengkait",
+    "gloss": "headwear",
+    "class": null,
+    "notes": "From ruseng \"head\" + kait \"worn accessory.\""
+  },
+  {
+    "lemma": "rusi",
+    "gloss": "to rain",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "rutu",
+    "gloss": "bad",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Sa",
+    "gloss": "nickname for Sara (\"Sarah\")",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sai",
+    "gloss": "on the face of",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "saichi",
+    "gloss": "to rise",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "saikawi",
+    "gloss": "to destroy",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "saillut",
+    "gloss": "to cry",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "saiwi",
+    "gloss": "to sail",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "saiwini",
+    "gloss": "sailor",
+    "class": null,
+    "notes": "saiwi + -ni"
+  },
+  {
+    "lemma": "sakah",
+    "gloss": "to book, reserve (a hotel room, etc.)",
+    "class": null,
+    "notes": "From Spanish sacar"
+  },
+  {
+    "lemma": "salih",
+    "gloss": "flesh, raw meat",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "salih",
+    "gloss": "to go out (to a public place, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "salin",
+    "gloss": "saline",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "salli",
+    "gloss": "to fish",
+    "class": 2,
+    "notes": ""
+  },
+  {
+    "lemma": "samaha",
+    "gloss": "to forgive",
+    "class": null,
+    "notes": "From Arabic سَامَحَ"
+  },
+  {
+    "lemma": "samit",
+    "gloss": "quiet",
+    "class": null,
+    "notes": "From Arabic  صَامِت"
+  },
+  {
+    "lemma": "sang",
+    "gloss": "should",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sangeh",
+    "gloss": "pregnant",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sapat",
+    "gloss": "dill",
+    "class": null,
+    "notes": "From Arabic شبث"
+  },
+  {
+    "lemma": "sapi",
+    "gloss": "to taste (trans.)",
+    "class": null,
+    "notes": "To say \"taste like,\" use i (adjz.) + sapiuk + kuti (equative copula), e.g.: sengai i sapiuk kuti tai \"Canarian wine tastes good.\""
+  },
+  {
+    "lemma": "sapiuk",
+    "gloss": "taste (n.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Sara",
+    "gloss": "female given name equivalent to Sarah",
+    "class": null,
+    "notes": "See also: Sa"
+  },
+  {
+    "lemma": "saru",
+    "gloss": "human, person",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sataq",
+    "gloss": "rust",
+    "class": null,
+    "notes": "From Arabic صَدَأ"
+  },
+  {
+    "lemma": "sawa",
+    "gloss": "to be the same as, equal to",
+    "class": null,
+    "notes": "From Arabic سَاوَى "
+  },
+  {
+    "lemma": "sazi",
+    "gloss": "enclosure, pen (for animals)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "saziuk",
+    "gloss": "to enclose",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sechut",
+    "gloss": "planet",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "seka",
+    "gloss": "child",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sekala",
+    "gloss": "scale, range",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Sekoti",
+    "gloss": "Scot (sb from Scotland)",
+    "class": null,
+    "notes": "Most likely from Dutch Schot."
+  },
+  {
+    "lemma": "sela",
+    "gloss": "to crush",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "semat",
+    "gloss": "to fly",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sengai",
+    "gloss": "wine made from Canarian grapes",
+    "class": null,
+    "notes": "See also: winu"
+  },
+  {
+    "lemma": "seni",
+    "gloss": "wine from La Gomera",
+    "class": null,
+    "notes": "From Kela Creole seni or an inland Gomeran dialect, ultimately a reborrowing of sengai \"Canarian wine.\""
+  },
+  {
+    "lemma": "senturia",
+    "gloss": "century",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "separatu",
+    "gloss": "separate",
+    "class": null,
+    "notes": "From Spanish separado"
+  },
+  {
+    "lemma": "seqi",
+    "gloss": "gravel",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "serang",
+    "gloss": "weird",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "seremonia",
+    "gloss": "ceremony",
+    "class": null,
+    "notes": "From Spanish ceremonia"
+  },
+  {
+    "lemma": "seriup",
+    "gloss": "acorn",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "seriupak",
+    "gloss": "oak tree",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "setantah",
+    "gloss": "standard",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "setoria",
+    "gloss": "story; history",
+    "class": null,
+    "notes": "From Portuguese estória"
+  },
+  {
+    "lemma": "siah",
+    "gloss": "shape",
+    "class": null,
+    "notes": "Probably from Arabic شَكْل "
+  },
+  {
+    "lemma": "sijai",
+    "gloss": "to lie (on one's side or back, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sik",
+    "gloss": "then",
+    "class": null,
+    "notes": "Terminates the apodosis of a conditional sentence. This almost always follows the apodosis, except when it's isolated from a protasis."
+  },
+  {
+    "lemma": "siki",
+    "gloss": "chicken (animal)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "simai",
+    "gloss": "sea (shallow ocean or large bay)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "simi",
+    "gloss": "to beg",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sin",
+    "gloss": "to let",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "siriu",
+    "gloss": "root (of a plant)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sirkuitu",
+    "gloss": "circuit",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sisetema",
+    "gloss": "system",
+    "class": null,
+    "notes": "From Spanish sistema"
+  },
+  {
+    "lemma": "siu",
+    "gloss": "before, until",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "siuh",
+    "gloss": "now",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "siujai",
+    "gloss": "vegetable",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "siuji",
+    "gloss": "to come",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Siuk",
+    "gloss": "Polaris, the North Star; the god of it",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "siune",
+    "gloss": "rice",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "siurat",
+    "gloss": "jelly, jam (of fruit)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "siusam",
+    "gloss": "(transitive) to stop",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "siwai",
+    "gloss": "sleep",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "siwaik",
+    "gloss": "sleepy",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "siwaiu",
+    "gloss": "to sleep",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sosiah",
+    "gloss": "social",
+    "class": null,
+    "notes": "From Spanish social"
+  },
+  {
+    "lemma": "sozo",
+    "gloss": "(Hiullumisetu slang) the Canaries, as independent from the Spanish",
+    "class": null,
+    "notes": "From a corruption of sunziu (\"republic\"), which was itself originally a Hiullumisetu neologism made to replace the Spanish loan repuwelika. The pronunciation [ˈsuɮu] is often used as a shibboleth by Hiullumisetu, most of which are from areas where <o> is pronounced as [ɔ]."
+  },
+  {
+    "lemma": "suhi",
+    "gloss": "mushroom",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sullung",
+    "gloss": "to leave",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sullung e pase",
+    "gloss": "to leave alone",
+    "class": null,
+    "notes": "Partial calque of Spanish dejar en paz"
+  },
+  {
+    "lemma": "sullung haiwet",
+    "gloss": "(euphemistic) to pass away",
+    "class": null,
+    "notes": "Literally, \"to leave the world.\" Compare Mandarin 去世 semantically."
+  },
+  {
+    "lemma": "sun",
+    "gloss": "thing, object",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "sunziu",
+    "gloss": "republic",
+    "class": null,
+    "notes": "Calque of Latin res publica: sun (\"thing\") + ziu (\"open, public\"). Originally a Hiullumisetu neologism coined in the 70s."
+  },
+  {
+    "lemma": "suq",
+    "gloss": "to walk (1, 2)",
+    "class": 2,
+    "notes": ""
+  },
+  {
+    "lemma": "suqa",
+    "gloss": "fin (of a fish)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "suqi",
+    "gloss": "to stay, remain",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Sutaperika",
+    "gloss": "South Africa",
+    "class": null,
+    "notes": "From Spanish Sudáfrica"
+  },
+  {
+    "lemma": "sutuq",
+    "gloss": "early",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "suwiu",
+    "gloss": "to move",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "szpi",
+    "gloss": "(Hiullumisetu slang) a dogwhistle for Canarian independence",
+    "class": null,
+    "notes": "An abbreviation of sozo pai iuji! (\"long live the independent Canaries!\"). Pronounced as sipi."
+  },
+  {
+    "lemma": "tachaq",
+    "gloss": "to teach",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tachaqeni",
+    "gloss": "teacher",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Tagari",
+    "gloss": "Mt. Teid",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tahaja",
+    "gloss": "to spell (a word)",
+    "class": null,
+    "notes": "From Arabic تَهَجَّى"
+  },
+  {
+    "lemma": "tahajuk",
+    "gloss": "spelling",
+    "class": null,
+    "notes": "tahaja + -uk"
+  },
+  {
+    "lemma": "tai",
+    "gloss": "good",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tailai",
+    "gloss": "any alcoholic drink",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tain",
+    "gloss": "debt",
+    "class": null,
+    "notes": "From Arabic دَيْن "
+  },
+  {
+    "lemma": "tainki",
+    "gloss": "(informal) alternative form of ngu tainki (\"thank you\")",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "taiqit",
+    "gloss": "river",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "takanji",
+    "gloss": "volcanic field",
+    "class": null,
+    "notes": "From Guanche takande"
+  },
+  {
+    "lemma": "taksi",
+    "gloss": "taxi",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "talliuh",
+    "gloss": "cloud",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tan",
+    "gloss": "can, able to",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tangi",
+    "gloss": "adze",
+    "class": null,
+    "notes": "Probably related, by uncertain means, to tungiu \"carpenter.\" This relationship has been raised as evidence for ablaut in Proto-Kela, though similar phenomena are rare."
+  },
+  {
+    "lemma": "tapa",
+    "gloss": "snack",
+    "class": null,
+    "notes": "From Spanish tapa"
+  },
+  {
+    "lemma": "tapaipa",
+    "gloss": "spurge",
+    "class": null,
+    "notes": "From Guanche tabayba"
+  },
+  {
+    "lemma": "tapak",
+    "gloss": "tobacco",
+    "class": null,
+    "notes": "From Dutch tabak"
+  },
+  {
+    "lemma": "taqai",
+    "gloss": "grain",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "taqiuk",
+    "gloss": "skin",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "taripu",
+    "gloss": "to identify",
+    "class": null,
+    "notes": "From Arabic عرف"
+  },
+  {
+    "lemma": "taripuni",
+    "gloss": "identifier: something which, or that which, identifies",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tasi",
+    "gloss": "Synonym of qipa (\"cinnamon\")",
+    "class": null,
+    "notes": "From Arabic دارسين"
+  },
+  {
+    "lemma": "tawari",
+    "gloss": "cute",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "te",
+    "gloss": "it",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "te",
+    "gloss": "tea",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tehai",
+    "gloss": "barley",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tehi",
+    "gloss": "hate",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tehiu",
+    "gloss": "to hate",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tehiuk",
+    "gloss": "to burn (intrans.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tekelarah",
+    "gloss": "to declare, state",
+    "class": null,
+    "notes": "From Spanish declarar"
+  },
+  {
+    "lemma": "tellai",
+    "gloss": "(obsolete) of clothes, to take off; (vulgar) to shit; shit! (intj.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tellai-",
+    "gloss": "vulgar intensifying prefix",
+    "class": null,
+    "notes": "Less vulgar than qiu-."
+  },
+  {
+    "lemma": "telli",
+    "gloss": "seed (noun); (euphemistic) semen",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "telliu",
+    "gloss": "to seed",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "temokerasia",
+    "gloss": "democracy",
+    "class": null,
+    "notes": "From Spanish democracia"
+  },
+  {
+    "lemma": "temokerasiek",
+    "gloss": "democratic",
+    "class": null,
+    "notes": "temokerasia + -ek"
+  },
+  {
+    "lemma": "temperatura",
+    "gloss": "temperature",
+    "class": null,
+    "notes": "From Spanish temperatura"
+  },
+  {
+    "lemma": "tenu",
+    "gloss": "black",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "terai",
+    "gloss": "platonic love",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "terasetornu",
+    "gloss": "disorder",
+    "class": null,
+    "notes": "From Spanish trastorno"
+  },
+  {
+    "lemma": "teren",
+    "gloss": "train",
+    "class": null,
+    "notes": "From Spanish tren"
+  },
+  {
+    "lemma": "Terente",
+    "gloss": "Drenthe",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "teroriseta",
+    "gloss": "terrorist",
+    "class": null,
+    "notes": "From Spanish terrorista"
+  },
+  {
+    "lemma": "tezu",
+    "gloss": "pregnant",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tezuk",
+    "gloss": "uterus",
+    "class": null,
+    "notes": "Related by uncertain means to tezu \"pregnant.\""
+  },
+  {
+    "lemma": "tichun",
+    "gloss": "line (of soldiers); front (of a military conflict, political party, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tiju",
+    "gloss": "mountain",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tiju",
+    "gloss": "cigarette",
+    "class": null,
+    "notes": "Clipping of pitiju"
+  },
+  {
+    "lemma": "tikiu",
+    "gloss": "to wave (..to sb.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tiksiunariu",
+    "gloss": "dictionary",
+    "class": null,
+    "notes": "From Spanish diccionario"
+  },
+  {
+    "lemma": "tilai",
+    "gloss": "baby",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tilema",
+    "gloss": "dilemma",
+    "class": null,
+    "notes": "From Spanish dilema"
+  },
+  {
+    "lemma": "tilla",
+    "gloss": "bright",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "timit",
+    "gloss": "to begin, start",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tisai",
+    "gloss": "faeces; to defecate",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tiu",
+    "gloss": "most",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tiu",
+    "gloss": "(Keluchek) bro, man",
+    "class": null,
+    "notes": "From Spanish tío"
+  },
+  {
+    "lemma": "tiuji",
+    "gloss": "forward, ahead",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tiulan",
+    "gloss": "to buy",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tiurep",
+    "gloss": "field",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tiutai",
+    "gloss": "best",
+    "class": null,
+    "notes": "Sometimes written as tiu tai, but this is proscribed nowadays."
+  },
+  {
+    "lemma": "tiuze",
+    "gloss": "simple, simply",
+    "class": null,
+    "notes": "More formal than kai."
+  },
+  {
+    "lemma": "tnk",
+    "gloss": "(texting) abbreviation of tainki",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tolleng",
+    "gloss": "to change",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tuchem",
+    "gloss": "pillow",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Tunchi",
+    "gloss": "(dated or Hiullumisetu) Canary Islands",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tungiu",
+    "gloss": "carpenter",
+    "class": null,
+    "notes": "See notes at tangi."
+  },
+  {
+    "lemma": "Tuseti",
+    "gloss": "male given name",
+    "class": null,
+    "notes": "Possibly from the Guanche name Tegueste."
+  },
+  {
+    "lemma": "tuwai",
+    "gloss": "endearing term of address: darling, dear",
+    "class": null,
+    "notes": "See also the neologistic tuwumisi."
+  },
+  {
+    "lemma": "tuwu",
+    "gloss": "silly, stupid",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "tuwumisi",
+    "gloss": "(neologism) endearing term of address: darling, dear",
+    "class": null,
+    "notes": "Calque of Mandarin 傻瓜 (shǎguā, literally, \"silly melon\")."
+  },
+  {
+    "lemma": "u",
+    "gloss": "(informal) pronunciation spelling of ngu (\"I\")",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "u",
+    "gloss": "or",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "uji",
+    "gloss": "where",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ukam",
+    "gloss": "seagull",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ung",
+    "gloss": "there (distal)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "unik",
+    "gloss": "dark",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "usah",
+    "gloss": "to use",
+    "class": null,
+    "notes": "From Spanish usar"
+  },
+  {
+    "lemma": "usep",
+    "gloss": "wheat",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "usiu",
+    "gloss": "because of, owing to",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "uu",
+    "gloss": "woah!, wow!",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "uwai",
+    "gloss": "to push",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "uwek",
+    "gloss": "few",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wa",
+    "gloss": "clause-final emphatic particle",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wai",
+    "gloss": "because",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "waichek",
+    "gloss": "tree",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "waihaq",
+    "gloss": "to hear",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "waiji",
+    "gloss": "fire",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "waikara",
+    "gloss": "fever; (obsolete, originally) any illness",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "waillek",
+    "gloss": "abundant",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "waipeq",
+    "gloss": "pig tail",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "waiqan",
+    "gloss": "to mean",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "waitam",
+    "gloss": "short (of an object)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "waiti",
+    "gloss": "to trust",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wak",
+    "gloss": "nose",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wak",
+    "gloss": "there (medial)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wakan",
+    "gloss": "elbow",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wakasiu",
+    "gloss": "vacation, holiday",
+    "class": null,
+    "notes": "From Spanish vacación"
+  },
+  {
+    "lemma": "waku",
+    "gloss": "dock, wharf",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wani",
+    "gloss": "any; anything",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wapaka",
+    "gloss": "to insult",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "waqi",
+    "gloss": "real, true",
+    "class": null,
+    "notes": "From Arabic واقعي"
+  },
+  {
+    "lemma": "wataing",
+    "gloss": "clean; abstinent (from alcohol, sex, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "we",
+    "gloss": "yeah!",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "weji",
+    "gloss": "also",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wek",
+    "gloss": "fish",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "weka",
+    "gloss": "(obsolete) cave, cavern; (vulgar, possibly offensive) pussy, cunt: vulva",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wemiq",
+    "gloss": "lightning",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wemiut",
+    "gloss": "small flowering plant",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wengan",
+    "gloss": "straw (of grass, a pine tree, etc.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "weqet",
+    "gloss": "bowl",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wesa",
+    "gloss": "carp",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wichi",
+    "gloss": "knot",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wichiu",
+    "gloss": "of a knot, to tie",
+    "class": null,
+    "notes": "wichi + -iu"
+  },
+  {
+    "lemma": "wiki",
+    "gloss": "ear",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wila",
+    "gloss": "to bathe (trans. or intrans.)",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "willi",
+    "gloss": "advice",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "winu",
+    "gloss": "wine made from foreign grapes",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wiseki",
+    "gloss": "whiskey",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "witah",
+    "gloss": "vital",
+    "class": null,
+    "notes": "From Spanish vital"
+  },
+  {
+    "lemma": "wiuchi",
+    "gloss": "fake",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wiuhiu",
+    "gloss": "to be brave; bravery",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wiuhu",
+    "gloss": "brave",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "Wiuhu",
+    "gloss": "male given name",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wiullai",
+    "gloss": "breast milk",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wiung",
+    "gloss": "to die; death",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wiuta",
+    "gloss": "(Christianity) Satan",
+    "class": null,
+    "notes": "Originally a pre-Christian loan from Guanche, referring to the malignant god Guayota."
+  },
+  {
+    "lemma": "wulla",
+    "gloss": "star",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "wullanepu",
+    "gloss": "to navigate; navigation",
+    "class": null,
+    "notes": "Literally, \"to follow the stars.\""
+  },
+  {
+    "lemma": "zai",
+    "gloss": "to go",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zain",
+    "gloss": "thief",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zaiu",
+    "gloss": "to throw",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zamiu",
+    "gloss": "moment, instant",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zapa",
+    "gloss": "(informal, originally La Palma) trash",
+    "class": null,
+    "notes": "Possibly from Arabic زبالة. For the standard word, see pasura."
+  },
+  {
+    "lemma": "zechi",
+    "gloss": "dry soil that has begun to crack",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zeng",
+    "gloss": "crab",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zihang",
+    "gloss": "resin, sap",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zikek",
+    "gloss": "river water",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zit",
+    "gloss": "to speak (intrans.)",
+    "class": 2,
+    "notes": ""
+  },
+  {
+    "lemma": "ziti",
+    "gloss": "to buy",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ziu",
+    "gloss": "open (as a container); to open; public",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ziuk",
+    "gloss": "sail (noun): a fabric apparatus for catching wind",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "ziunap",
+    "gloss": "stomach flu",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zu... zu...",
+    "gloss": "both... and...",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zun",
+    "gloss": "warm",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zunek",
+    "gloss": "warmth",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zupa",
+    "gloss": "navel",
+    "class": null,
+    "notes": "Probably related to Guanche zonfa"
+  },
+  {
+    "lemma": "zupi",
+    "gloss": "tuna; (now obsolete) large, deep water fish",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zupiuq",
+    "gloss": "tall",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zuqai",
+    "gloss": "claw",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zut",
+    "gloss": "breath",
+    "class": null,
+    "notes": ""
+  },
+  {
+    "lemma": "zutiu",
+    "gloss": "to breathe",
+    "class": null,
+    "notes": ""
+  }
+]

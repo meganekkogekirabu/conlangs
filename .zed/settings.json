@@ -1,0 +1,10 @@
+{
+  "file_types": {
+    "Lua": ["*.rockspec"],
+  },
+  "languages": {
+    "HTML": {
+      "format_on_save": "off",
+    },
+  },
+}

@@ -1,0 +1,6 @@
+[
+  {
+    "command": "hugo server",
+    "label": "run local dev server",
+  },
+]

@@ -1,0 +1,5 @@
+conlangs.localhost
+
+encode gzip
+root /srv
+file_server

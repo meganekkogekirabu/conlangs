@@ -1,0 +1,19 @@
+services:
+  build:
+    image: hugomods/hugo
+    working_dir: /app
+    volumes:
+      - ./:/app:Z
+    command: >
+      hugo --minify
+
+  caddy:
+    image: caddy:2
+    container_name: conlangs-caddy
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:Z
+      - ./public:/srv:Z
