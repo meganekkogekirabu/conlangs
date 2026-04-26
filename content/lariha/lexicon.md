@@ -1,5 +1,5 @@
 ---
-title: "Lariha lexicon"
+title: "Proto-Lariha lexicon"
 ---
 
 {{< lariha-lexicon >}}
