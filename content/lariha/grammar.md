@@ -121,6 +121,21 @@ Early Proto-Lariha
 Split ergativity did not appear until late Proto-Lariha.
 
 
+Pre-Hokkaidoan Lariha
+---------------------
+
+|            | 1s    | 2s        | 3s anim | 3s inan | 1p incl  | 1p excl  | 2p      | 3p   |
+| :--------- | :---- | :-------- | :------ | :------ | :------- | :------- | :------ | :--- |
+| nominative | minay | tinu      | kew     | kut     | nikítu   | nirítu   | tinay   | aku  |
+| accusative | miniw | tinca[^1] | kiw     | kutiw   | nikíchu  | niríchu  | tiniw   | acha |
+| ergative   | mináy | tunáy[^2] | kuwáy   | káy     | nikéycu  | niréycu  | tinéycu | ukáy |
+
+[^1]: By analogy with N-stem declension or to distinguish from plural, probably
+      from earlier &ast;*tiniw*
+
+[^2]: By analogy with n-stem declension, probably from earlier &ast;*tináy*
+
+
 Prepositions
 ============
 
