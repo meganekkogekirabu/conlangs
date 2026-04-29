@@ -21,27 +21,23 @@ Index
 About
 =====
 
-Kela is a language isolate spoken in the Canary Islands
-in addition to speakers scattered through the rest of
-Macaronesia and parts of America in diaspora.
+Kela is a language isolate spoken in the Canary Islands in addition to speakers
+scattered through the rest of Macaronesia and parts of America in diaspora.
 
-It forms a continuum with, but is not related to, the
-Bokaliri language spoken in Madeira and the Azores.
+It forms a continuum with, but is not related to, the Bokaliri language spoken
+in Madeira and the Azores.
 
-Kela is relatively simple in terms of morphology, and it
-is usually interpreted as analytic. It is possible that
-it used to be more morphologically complex, as there
-appear to be fossilised affixes like *-et*, *p- -ing*,
-and *ka- -in* in some words, which previously served
-a more complex purpose.
+Kela is relatively simple in terms of morphology, and it is usually interpreted
+as analytic. It is possible that it used to be more morphologically complex, as
+there appear to be fossilised affixes like *-et*, *p- -ing*, and *ka- -in* in
+some words, which previously served a more complex purpose.
 
-Today, however, Kela's morphological complexity is largely
-only in the form of its pronominal enclitics, *=ng*, *=na*, and
-*=ki*, which are used to form possessives and accusatives.
+Today, however, Kela's morphological complexity is largely only in the form of
+its pronominal enclitics, *=ng*, *=na*, and *=ki*, which are used to form
+possessives and accusatives.
 
-Kela also has a sapiency hierarchy for nouns, though the
-only place it affects the structure of a sentence is through
-verbs. The hierarchy looks like this:
+Kela also has a sapiency hierarchy for nouns, though the only place it affects
+the structure of a sentence is through verbs. The hierarchy looks like this:
 
 
 | rank | description                                              |
@@ -52,25 +48,22 @@ verbs. The hierarchy looks like this:
 | 4    | Unintelligent, undomesticated animals                    |
 
 
-As for verbs, Kela verbs are typically analysed as falling
-into one of two classes. Class I verbs attach themselves
-directly after the agent noun and largely act as a modifier
-to it. Because of the system of sapiency agreement between
-a noun and its dependents, for any given sememe there are
-typically several verbs, each for a different sapiency class.
-Class I verbs are often but not always stative verbs derived
-from nominals with fossilised affixes like *ka- -in* as
-in *ik* "hungry" &rarr; *kaikin* "to starve" or *p- -ing* as
-in *kot* "red" &rarr; *pekoting* "of a fire, to light."
+As for verbs, Kela verbs are typically analysed as falling into one of two
+classes. Class I verbs attach themselves directly after the agent noun and
+largely act as a modifier to it. Because of the system of sapiency agreement
+between a noun and its dependents, for any given sememe there are typically
+several verbs, each for a different sapiency class.  Class I verbs are often
+but not always stative verbs derived from nominals with fossilised affixes like
+*ka- -in* as in *ik* "hungry" &rarr; *kaikin* "to starve" or *p- -ing* as in
+*kot* "red" &rarr; *pekoting* "of a fire, to light."
 
-Class II verbs, on the other hand, behave more like traditional
-verbs and are generally the oldest layer of verbs or the newest
-layer of verbs. They do not have much special behaviour and, in
-the old layer, generally refer to simple concepts like *llot*
-"to eat" or *suq* "to walk." In some cases, class II verbs can
-have a sapiency split similar to class I verbs: *suq*, for
-example, refers only to a human walking, while *kanah* refers
-to a wild animal and *chek* to a domesticated animal.
+Class II verbs, on the other hand, behave more like traditional verbs and are
+generally the oldest layer of verbs or the newest layer of verbs. They do not
+have much special behaviour and, in the old layer, generally refer to simple
+concepts like *llot* "to eat" or *suq* "to walk." In some cases, class II verbs
+can have a sapiency split similar to class I verbs: *suq*, for example, refers
+only to a human walking, while *kanah* refers to a wild animal and *chek* to a
+domesticated animal.
 
 
 Phonology
@@ -99,10 +92,9 @@ Phonology
 Numerals
 --------
 
-There are two distinct systems for numerals, being vigesimal
-and decimal. Generally, decimal is used in more modernised areas
-whereas vigesimal is used in more rural areas. See
-[isoglosses.png](isoglosses.png).
+There are two distinct systems for numerals, being vigesimal and decimal.
+Generally, decimal is used in more modernised areas whereas vigesimal is used
+in more rural areas. See [isoglosses.png](isoglosses.png).
 
 
 |     | vigesimal   | decimal   |
