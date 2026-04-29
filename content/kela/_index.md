@@ -64,11 +64,12 @@ in *ik* "hungry" &rarr; *kaikin* "to starve" or *p- -ing* as
 in *kot* "red" &rarr; *pekoting* "of a fire, to light."
 
 Class II verbs, on the other hand, behave more like traditional
-verbs and are generally the oldest layer of verbs. They do not
-have much special behaviour and generally refer to simple concepts
-like *llot* "to eat" or *suq* "to walk." In some cases, class II
-verbs can have a sapiency split similar to class I verbs: *suq*,
-for example, refers only to a human walking, while *kanah* refers
+verbs and are generally the oldest layer of verbs or the newest
+layer of verbs. They do not have much special behaviour and, in
+the old layer, generally refer to simple concepts like *llot*
+"to eat" or *suq* "to walk." In some cases, class II verbs can
+have a sapiency split similar to class I verbs: *suq*, for
+example, refers only to a human walking, while *kanah* refers
 to a wild animal and *chek* to a domesticated animal.
 
 
